@@ -1,5 +1,4 @@
 [
-    
   { "text": "Habecks Heizungs-Hammer: Jetzt wird es auch im Sommer kuschelig.", "kategorie": "Wirtschaft & Energie" },
   { "text": "Ein Auftritt von Habeck – danach fühlt sich die Realität an wie ein schlechter Witz.", "kategorie": "Wirtschaft & Energie" },
   { "text": "Habecks Strategie: Einfach mal die Wirtschaft in den Ruhestand schicken.", "kategorie": "Wirtschaft & Energie" },
@@ -300,7 +299,6 @@
   { "text": "Steuer-Check: Alles okay.", "kategorie": "Steuerpolitik" },
   { "text": "Steuererklärung: Wir geben nicht auf.", "kategorie": "Steuerpolitik" },
   { "text": "Wir zahlen Steuern, weil wir müssen.", "kategorie": "Steuerpolitik" },
-
   { "text": "Die Rentenreform: Ein Generationenvertrag, der leider nur aus Kleingedrucktem besteht.", "kategorie": "Rentenreform" },
   { "text": "Rente mit 75 – das neue Fitnessprogramm für den deutschen Ruheständler.", "kategorie": "Rentenreform" },
   { "text": "Wir finanzieren die Rente von heute durch das Hoffen auf das Glück von morgen.", "kategorie": "Rentenreform" },
@@ -500,7 +498,6 @@
   { "text": "Wir brauchen eine echte Reform.", "kategorie": "Gesundheitsreform" },
   { "text": "Gesundheitsreform: Ein ewiger Traum.", "kategorie": "Gesundheitsreform" },
   { "text": "Wer an das System glaubt, ist optimistisch.", "kategorie": "Gesundheitsreform" },
-
   {
     "text": "Die Regierungs-App wird als Erfolg gefeiert trotz: einer Blockade.",
     "kategorie": "Infrastruktur"

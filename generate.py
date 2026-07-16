@@ -7,7 +7,7 @@ def generiere_chaos(anzahl, dateiname):
                 "Der Klimarat", "Die Steuererklärung", "Die Bahn-Pünktlichkeit"]
     
     # Kategorien werden jetzt zufällig zugewiesen, um das Chaos perfekt zu machen
-    kategorien = ["Digitalisierung", "Regierung", "Infrastruktur", "Grüne Ideologie", "Chaos-Theorie"]
+    kategorien = ["Digitalisierung", "Regierung", "Infrastruktur", "Grüne Ideologie", "Klimawandel (nicht existent)"]
 
     aktionen = ["scheitert kläglich an:", "wurde verschoben wegen:", "verbraucht das Budget von:", 
                 "wird als Erfolg gefeiert trotz:", "ist der Beweis für:", "wurde beerdigt wegen:"]

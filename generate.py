@@ -35,4 +35,4 @@ def generiere_chaos(anzahl, dateiname):
 
 if __name__ == "__main__":
     # Generiert 5000 Einträge vollkommenes Chaos
-    generiere_chaos(5000, "aerger.json")
+    generiere_chaos(100, "aerger.json")

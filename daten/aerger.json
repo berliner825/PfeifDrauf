@@ -1,77 +1,5 @@
 [
   {
-    "text": "Sicherheitspolitik: Wir erhöhen die Befugnisse und senken die Erwartungen.",
-    "kategorie": "Sicherheit & Hybridkrieg"
-  },
-  {
-    "text": "Der Hybridkrieg ist da – wir diskutieren noch die Definition.",
-    "kategorie": "Sicherheit & Hybridkrieg"
-  },
-  {
-    "text": "Drohnen über Leipzig: Der Alarm kommt pünktlich – nach dem Vorfall.",
-    "kategorie": "Sicherheit & Hybridkrieg"
-  },
-  {
-    "text": "Wir rüsten auf gegen Hybridbedrohungen – mit Excel und Hoffnung.",
-    "kategorie": "Sicherheit & Hybridkrieg"
-  },
-  {
-    "text": "Sicherheit: Mehr Personal, mehr Befugnisse, gleiche Ergebnisse.",
-    "kategorie": "Sicherheit & Hybridkrieg"
-  },
-  {
-    "text": "Wirtschaftswunder 2.0: Wir wundern uns, warum alle Fabriken weg sind.",
-    "kategorie": "Wirtschaft & Industrie"
-  },
-  {
-    "text": "Energiepreise als Investitionsbremse – oder wie man Weltmarktführer in die Flucht schlägt.",
-    "kategorie": "Wirtschaft & Industrie"
-  },
-  {
-    "text": "Wer braucht schon Industrie, wenn wir stattdessen tolle Dienstleistungen für Touristen haben?",
-    "kategorie": "Wirtschaft & Industrie"
-  },
-  {
-    "text": "Wir setzen auf 'Post-Industrie' – ein schicker Begriff für Arbeitslosigkeit.",
-    "kategorie": "Wirtschaft & Industrie"
-  },
-  {
-    "text": "Standort Deutschland: Teuer, langsam und bald ohne Strom.",
-    "kategorie": "Wirtschaft & Industrie"
-  },
-  {
-    "text": "Deindustrialisierung: Das Konzept, Deutschland in ein Freilichtmuseum für Ruinen zu verwandeln.",
-    "kategorie": "Wirtschaft & Industrie"
-  },
-  {
-    "text": "Industrie 4.0: Wir haben die Industrie, die anderen haben die 4.0.",
-    "kategorie": "Wirtschaft & Industrie"
-  },
-  {
-    "text": "Die letzte Schraube wird gerade eingeschraubt, danach wird das Licht ausgemacht.",
-    "kategorie": "Wirtschaft & Industrie"
-  },
-  {
-    "text": "Wir sind Weltmeister – im Abbau unserer eigenen wirtschaftlichen Basis.",
-    "kategorie": "Wirtschaft & Industrie"
-  },
-  {
-    "text": "Deutschland wird grün – durch Abwesenheit von Produktion.",
-    "kategorie": "Wirtschaft & Industrie"
-  },
-  {
-    "text": "Bürokratie ist das einzige Produkt, das wir in Massen produzieren.",
-    "kategorie": "Bürokratie"
-  },
-  {
-    "text": "Wir haben die Effizienz durch Dokumentation ersetzt.",
-    "kategorie": "Bürokratie"
-  },
-  {
-    "text": "Wir verwalten die Zukunft von gestern.",
-    "kategorie": "Bürokratie"
-  },
-  {
     "text": "Bürokratie ist wie ein Puzzle, bei dem alle Teile zu anderen Boxen gehören.",
     "kategorie": "Bürokratie"
   },
@@ -324,12 +252,20 @@
     "kategorie": "AfD & Umfragen"
   },
   {
+    "text": "AfD fast bei der Mehrheit in Sachsen-Anhalt? Na, dann kann man ja schon mal vorsorglich den Taschenrechner wegpacken und die Demokratie auf Autopilot stellen. Aber keine Sorge: Bis zur Mehrheit ist es noch ein Stück. Und vielleicht merkt der eine oder andere bis dahin, dass Protestwählen ungefähr so nachhaltig ist wie ein Wutanfall beim Zahnarzt – kurzfristig befreiend, langfristig eher unangenehm.",
+    "kategorie": "Landtagswahlen 2026"
+  },
+  {
     "text": "CDU bei 17,2 Prozent: Merz hat die AfD nicht halbiert – er hat seine eigene Partei demontiert und nennt das jetzt „schwieriges Umfeld“. Wenn das die Leistung ist, dann war die Sommerpause wohl die produktivste Phase seiner Kanzlerschaft.",
     "kategorie": "Regierung Merz"
   },
   {
     "text": "Merz ist „tief erschüttert“. Die Wähler in Sachsen-Anhalt waren es schon länger – sie haben nur konsequent gehandelt. Jetzt analysiert die CDU, während die AfD schon mal die Regierungsbank anprobiert.",
     "kategorie": "Regierung Merz"
+  },
+  {
+    "text": "Ulrich Siegmund fast Ministerpräsident. Die Brandmauer fast Geschichte. Und die etablierten Parteien fast überrascht, obwohl die Umfragen seit Monaten genau das vorhergesagt haben. Fast so, als hätte niemand hingeschaut.",
+    "kategorie": "Landtagswahlen 2026"
   },
   {
     "text": "39 Sitze für die AfD, drei fehlen zur Mehrheit. Die anderen Parteien zählen jetzt fieberhaft mögliche Überläufer und nennen das „Stabilität sichern“. Stabilität war gestern – heute ist Rechenspielzeit.",
@@ -476,6 +412,10 @@
     "kategorie": "Regierung Merz"
   },
   {
+    "text": "Regierungsbildung ohne AfD: Theoretisch möglich, praktisch so stabil wie die Umfragewerte der Union. Man kann es versuchen – Erfolg ist nicht garantiert.",
+    "kategorie": "Landtagswahlen 2026"
+  },
+  {
     "text": "AfD bei 43,8 Prozent: Ein klarer Auftrag an die etablierten Parteien, weiter so zu machen. Die Wähler haben ihre Meinung unmissverständlich formuliert.",
     "kategorie": "AfD & Umfragen"
   },
@@ -496,8 +436,12 @@
     "kategorie": "AfD & Umfragen"
   },
   {
-    "text": "Eine Woche nach Sachsen-Anhalt: Die Brandmauer steht noch. Sie ist nur deutlich durchsichtiger geworden – und die AfD winkt freundlich von der anderen Seite.",
-    "kategorie": "Brandmauer"
+    "text": "Mecklenburg-Vorpommern: AfD bei 37 Prozent, CDU bei 7. Merz’ Partei hat den historischen Tiefpunkt nicht nur erreicht – sie hat ihn mit Anlauf unterboten.",
+    "kategorie": "Landtagswahlen 2026"
+  },
+  {
+    "text": "In Berlin führt die Linke, in MV die AfD, in Sachsen-Anhalt hat die AfD schon gewonnen. Die Mitte sucht noch nach dem Ausgang.",
+    "kategorie": "AfD & Umfragen"
   },
   {
     "text": "Merz bleibt „zutiefst schockiert“. Die Wähler sind es mittlerweile gewohnt. Schockieren lässt sich nur noch, wer die Umfragen die letzten Monate ignoriert hat.",
@@ -540,8 +484,20 @@
     "kategorie": "Regierung Merz"
   },
   {
+    "text": "CDU in MV bei 6–8 Prozent: Das ist kein Umfragewert mehr. Das ist ein Hilferuf, den niemand mehr hören will – außer der AfD, die ihn als Bestätigung verbucht.",
+    "kategorie": "Regierung Merz"
+  },
+  {
+    "text": "Die Mitte schrumpft weiter. In Sachsen-Anhalt ist sie bereits Geschichte, in MV kämpft sie ums Überleben, in Berlin sucht sie noch nach einem stabilen Platz.",
+    "kategorie": "AfD & Umfragen"
+  },
+  {
     "text": "Nach Sachsen-Anhalt: Merz verspricht Konsequenzen. Die Konsequenz heißt bisher: weiter so, nur lauter erklärt. Die Wähler haben bereits abgestimmt.",
     "kategorie": "Regierung Merz"
+  },
+  {
+    "text": "AfD in MV klar vorn, SPD holt auf, CDU im freien Fall. Der Osten liefert die nächste Lektion – und diesmal mit noch klareren Zahlen.",
+    "kategorie": "Landtagswahlen 2026"
   },
   {
     "text": "Die Brandmauer hält stand. Gegen den gesunden Menschenverstand, gegen die Wahlergebnisse und gegen die Mathematik. Das ist Durchhaltevermögen in Reinform.",
@@ -552,12 +508,24 @@
     "kategorie": "Regierung Merz"
   },
   {
+    "text": "Berlin-Wahl: Die Linke führt, die CDU kämpft, die AfD stabilisiert sich. Willkommen in der Hauptstadt, in der die alte Ordnung gerade neu sortiert wird.",
+    "kategorie": "Landtagswahlen 2026"
+  },
+  {
     "text": "14 Prozent halten Merz noch für den richtigen Kanzler. 78 Prozent nicht. Das ist keine Umfrage mehr – das ist ein Misstrauensvotum in Zeitlupe.",
     "kategorie": "Regierung Merz"
   },
   {
+    "text": "Sachsen-Anhalt hat die Brandmauer auf die Probe gestellt. Berlin und MV werden sie weiter belasten. Irgendwann reißt auch der stabilste Beton.",
+    "kategorie": "Brandmauer"
+  },
+  {
     "text": "Die CDU verliert im Osten dramatisch. Merz erklärt das mit schwierigem Umfeld. Andere würden es „Versagen der eigenen Politik“ nennen – aber Selbstkritik ist optional.",
     "kategorie": "Regierung Merz"
+  },
+  {
+    "text": "MV: AfD und SPD im Zweikampf, CDU bei 7 Prozent. Die Union hat den Anschluss verloren – und sucht ihn noch immer in den Pressemitteilungen.",
+    "kategorie": "Landtagswahlen 2026"
   },
   {
     "text": "Nach dem historischen AfD-Sieg: Die etablierten Parteien diskutieren Stabilität. Die Wähler haben Stabilität abgewählt. Demokratie kann so unhöflich sein.",
@@ -565,6 +533,10 @@
   },
   {
     "text": "Die Regierungsbildung in Sachsen-Anhalt dauert. Die AfD hat Zeit. Die anderen haben Prinzipien. Mal sehen, was länger hält.",
+    "kategorie": "Landtagswahlen 2026"
+  },
+  {
+    "text": "Berlin vor der Wahl: Enges Rennen zwischen Linke und CDU, AfD als dritter im Bunde. Die Hauptstadt übt schon mal den neuen politischen Pluralismus – ohne Sicherheitsnetz.",
     "kategorie": "Landtagswahlen 2026"
   },
   {
@@ -580,12 +552,36 @@
     "kategorie": "AfD & Umfragen"
   },
   {
+    "text": "In MV droht der CDU das schlechteste Ergebnis seit Gründung der Bundesrepublik. Manche Rekorde möchte man lieber nicht brechen.",
+    "kategorie": "Regierung Merz"
+  },
+  {
+    "text": "Nächste Woche zwei Wahlen. Die Brandmauer steht bereit. Die Realität auch. Mal sehen, wer diesmal gewinnt.",
+    "kategorie": "Landtagswahlen 2026"
+  },
+  {
+    "text": "Die politische Mitte in Deutschland: In Sachsen-Anhalt bereits Geschichte, in MV fast unsichtbar, in Berlin noch kämpfend. Schrumpfung als Geschäftsmodell.",
+    "kategorie": "AfD & Umfragen"
+  },
+  {
     "text": "Merz bleibt Kanzler. Die Partei bleibt loyal. Die Umfragen bleiben grausam. Kontinuität hat viele Gesichter – und die meisten davon sind unzufrieden.",
+    "kategorie": "Regierung Merz"
+  },
+  {
+    "text": "Sachsen-Anhalt war der Warnschuss. Berlin und MV könnten der Volltreffer werden. Die Brandmauer zittert schon vorausschauend.",
+    "kategorie": "Brandmauer"
+  },
+  {
+    "text": "CDU-Halbierung in Sachsen-Anhalt, historisches Tief in MV. Merz analysiert weiter. Irgendwann wird aus Analyse nur noch Dokumentation des Niedergangs.",
     "kategorie": "Regierung Merz"
   },
   {
     "text": "Die AfD liefert Ergebnisse. Die etablierten Parteien liefern Erklärungen. Die Wähler entscheiden sich zunehmend für Ersteres.",
     "kategorie": "AfD & Umfragen"
+  },
+  {
+    "text": "Berlin: Linke vorne, CDU knapp dahinter, AfD stabil. Die Hauptstadt zeigt, wie man aus einer Volkspartei eine von vielen macht – und das in Rekordzeit.",
+    "kategorie": "Landtagswahlen 2026"
   },
   {
     "text": "Nach Sachsen-Anhalt: Die Brandmauer hält. Sie hält nur nicht mehr besonders gut. Und die nächsten Wahlen stehen schon vor der Tür.",
@@ -596,207 +592,211 @@
     "kategorie": "Regierung Merz"
   },
   {
+    "text": "Die größte Stärke der AfD bleibt die Schwäche der anderen. Sachsen-Anhalt war der Beweis. Berlin und MV könnten die Bestätigung werden.",
+    "kategorie": "AfD & Umfragen"
+  },
+  {
     "text": "Eine Woche nach dem Debakel: Merz bleibt, die Brandmauer bleibt, die Unzufriedenheit bleibt. Manche Dinge ändern sich einfach nicht – egal wie klar das Ergebnis war.",
     "kategorie": "Regierung Merz"
   },
   {
-    "text": "CDU fliegt in Mecklenburg-Vorpommern erstmals aus einem Landtag – 4,9 Prozent. Merz nennt es Desaster, die Wähler nannten es Konsequenz.",
-    "kategorie": "Landtagswahlen 2026"
-  },
-  {
-    "text": "AfD gewinnt in MV mit rund 38 Prozent, SPD knapp dahinter. Schwesig bleibt, die Union bleibt draußen. Historische Klatsche für die Kanzlerpartei.",
-    "kategorie": "Landtagswahlen 2026"
-  },
-  {
-    "text": "Linke siegt klar in Berlin vor der CDU. Das Rote Rathaus wechselt die Farbe – und Merz verliert die Hauptstadt.",
-    "kategorie": "Landtagswahlen 2026"
-  },
-  {
-    "text": "CDU in MV unter fünf Prozent. Manche Rekorde möchte man wirklich nicht brechen – besonders nicht unter dem eigenen Kanzler.",
+    "text": "CDU in Mecklenburg-Vorpommern bei 4,9 Prozent: Erstmals seit 1949 fliegt die Union aus einem Landtag. Merz nennt das „schwieriges Umfeld“. Andere nennen es historisches Debakel.",
     "kategorie": "Regierung Merz"
   },
   {
-    "text": "Doppel-Wahlabend: AfD vorn in MV, Linke vorn in Berlin. Die Mitte hat den Abend komplett verschlafen.",
-    "kategorie": "AfD & Umfragen"
+    "text": "AfD gewinnt MV mit 38,2 Prozent. Die CDU scheitert an der Fünf-Prozent-Hürde. Manche Rekorde möchte man wirklich nicht brechen.",
+    "kategorie": "Landtagswahlen 2026"
   },
   {
-    "text": "Merz bleibt im Amt. Nach Sachsen-Anhalt, MV und Berlin fragt sich nur noch, wie lange die Partei das noch aushält.",
+    "text": "Berlin: Linke 25,7 Prozent, CDU 18,8, AfD 16,3. Die Hauptstadt hat gewählt – und die alte Ordnung gleich mit abgewählt.",
+    "kategorie": "Landtagswahlen 2026"
+  },
+  {
+    "text": "Merz nach dem MV-Desaster: „Es ist ein Desaster.“ Selbsterkenntnis ist der erste Schritt. Der zweite wäre Konsequenzen – die bleiben vorerst aus.",
     "kategorie": "Regierung Merz"
   },
   {
-    "text": "Die Brandmauer hat in MV gehalten – weil die CDU gar nicht mehr drin ist. Manchmal löst sich das Problem von selbst.",
+    "text": "CDU fliegt in MV aus dem Landtag. In Berlin verliert sie massiv. Merz bleibt im Amt. Kontinuität hat viele Gesichter – die meisten davon sind mittlerweile blass.",
+    "kategorie": "Regierung Merz"
+  },
+  {
+    "text": "Die Brandmauer in MV: Die CDU ist gar nicht mehr da, um sie zu verteidigen. Manchmal erledigt sich ein Problem von selbst – nur leider das falsche.",
     "kategorie": "Brandmauer"
   },
   {
-    "text": "Linke stellt in Berlin die stärkste Kraft. Rot-Rot-Grün ist möglich, und die CDU schaut von der Oppositionsbank zu.",
+    "text": "Linke gewinnt Berlin erstmals. CDU und SPD verlieren historisch. Die AfD verdoppelt sich fast. Willkommen im neuen politischen Berlin.",
     "kategorie": "Landtagswahlen 2026"
   },
   {
-    "text": "4,9 Prozent für die CDU in MV. Das ist kein Tiefstand mehr – das ist der politische Totenschein der Landespartei.",
+    "text": "Merz will weitermachen. Die Wähler in MV und Berlin haben signalisiert: Bitte nicht. Demokratie kann so unhöflich sein.",
     "kategorie": "Regierung Merz"
   },
   {
-    "text": "Nach dem Doppel-Debakel: Merz beruft Präsidiumssitzung ein. Die Analyse beginnt, die Ergebnisse bleiben.",
+    "text": "4,9 Prozent für die CDU in Mecklenburg-Vorpommern. Das ist kein Tiefstand mehr – das ist ein politisches Aus. Historisch, schmerzhaft und selbstverschuldet.",
     "kategorie": "Regierung Merz"
   },
   {
-    "text": "AfD holt in MV die meisten Stimmen, verfehlt aber die Mehrheit. Die anderen müssen jetzt zusammenhalten – oder untergehen.",
-    "kategorie": "Landtagswahlen 2026"
-  },
-  {
-    "text": "Berlin: Linke klar vorne, CDU abgeschlagen. Die Hauptstadt hat der Kanzlerpartei die kalte Schulter gezeigt.",
-    "kategorie": "Landtagswahlen 2026"
-  },
-  {
-    "text": "CDU-Landesverbände im Osten: Von historischem Tief zu historischem Aus. Merz analysiert weiter.",
-    "kategorie": "Regierung Merz"
-  },
-  {
-    "text": "Die politische Mitte schrumpft weiter. In MV ist die CDU raus, in Berlin ist die Linke drin. Neue Normalität.",
+    "text": "AfD stärkste Kraft in MV, Linke stärkste Kraft in Berlin. Die Mitte sucht noch nach dem Ausgang – und findet ihn nicht.",
     "kategorie": "AfD & Umfragen"
   },
   {
-    "text": "Söder hält an Merz fest. Die Wähler in MV und Berlin haben sich bereits entschieden – gegen die Union.",
+    "text": "Nach zwei Wahlsonntagen: Sachsen-Anhalt AfD, MV AfD, Berlin Linke. Merz analysiert weiter. Irgendwann wird aus Analyse nur noch Protokoll des Niedergangs.",
     "kategorie": "Regierung Merz"
   },
   {
-    "text": "Regierungsbildung in MV: AfD stärkste Kraft, aber Schwesig kann mit Linken und Grünen weitermachen. Die Brandmauer hält – diesmal von links.",
+    "text": "Die CDU ist in MV aus dem Landtag geflogen. Erstmals in der Geschichte der Bundesrepublik. Manche Premiere hätte man sich sparen können.",
     "kategorie": "Landtagswahlen 2026"
   },
   {
-    "text": "Merz nach den Wahlen: schwere Verantwortung. Die Wähler haben ihm die Verantwortung schon abgenommen – in drei Bundesländern.",
+    "text": "Berlin hat die Linke zur stärksten Kraft gemacht. Die CDU ist nur noch Zweite – und das auch nur knapp vor der AfD. Die Volkspartei schrumpft weiter.",
+    "kategorie": "Landtagswahlen 2026"
+  },
+  {
+    "text": "Merz bleibt Kanzler. Die Frage ist nicht mehr, ob er die nächsten Wahlen übersteht – sondern ob die Partei ihn bis dahin noch trägt.",
     "kategorie": "Regierung Merz"
   },
   {
-    "text": "CDU fliegt aus dem MV-Landtag. Zum ersten Mal in der Geschichte der Bundesrepublik. Glückwunsch an den Kanzler.",
-    "kategorie": "Landtagswahlen 2026"
+    "text": "SPD in Berlin bei 12,1 Prozent – historisch schlecht. In MV knapp hinter der AfD. Schwarz-Rot im Bund schaut zu und hofft, dass niemand hinschaut.",
+    "kategorie": "Regierung Merz"
   },
   {
-    "text": "Linke jubelt in Berlin, AfD jubelt in MV. Die etablierten Parteien diskutieren Stabilität – und verlieren sie.",
-    "kategorie": "AfD & Umfragen"
-  },
-  {
-    "text": "Die Brandmauer steht noch. Sie steht nur mittlerweile in einem Land ohne CDU und mit Linken an der Spitze.",
+    "text": "Die Brandmauer hält – in MV musste sie gar nicht mehr halten, weil die CDU schon draußen war. Effizienz hat viele Formen.",
     "kategorie": "Brandmauer"
   },
   {
-    "text": "Nach Sachsen-Anhalt kam MV. Nach MV kommt die Personaldebatte. Merz bleibt – vorerst.",
-    "kategorie": "Regierung Merz"
-  },
-  {
-    "text": "Berlin wechselt von CDU zu möglicher Rot-Rot-Grün. Der Westen lernt langsam, was der Osten schon weiß.",
-    "kategorie": "Landtagswahlen 2026"
-  },
-  {
-    "text": "4,9 Prozent: Der 18-Uhr-Merz wird zur historischen Blamage. Manche Statements kommen zu früh – und bleiben zu lange.",
-    "kategorie": "Regierung Merz"
-  },
-  {
-    "text": "AfD in MV vorne, CDU draußen. Die Mathematik der Macht hat die Union im Osten abgewählt.",
+    "text": "AfD in MV 38,2 Prozent, in Berlin 16,3. Zwei sehr unterschiedliche Ergebnisse, eine sehr klare Botschaft: Die Unzufriedenheit wächst weiter.",
     "kategorie": "AfD & Umfragen"
   },
   {
-    "text": "Die Mitte ist abgewählt. In drei Bundesländern hintereinander. Merz spricht von schwierigem Umfeld.",
+    "text": "Merz nach den Wahlen: Reformen fortsetzen. Die Wähler: Merz reformieren. Die Diskrepanz bleibt das Markenzeichen dieser Regierung.",
     "kategorie": "Regierung Merz"
   },
   {
-    "text": "Linke siegt in Berlin klar vor der CDU. Die Hauptstadt zeigt, wie man aus einer Volkspartei eine von vielen macht.",
+    "text": "In MV regiert künftig wohl Rot-Rot-Grün ohne CDU. In Berlin droht dasselbe. Die Union wird zur regionalen Randnotiz – und das in Rekordzeit.",
     "kategorie": "Landtagswahlen 2026"
   },
   {
-    "text": "Merz muss weg – sagt der Berliner MIT-Chef. Der Rest der Partei nickt und hofft auf bessere Kommunikation.",
-    "kategorie": "Regierung Merz"
-  },
-  {
-    "text": "Doppel-Wahl: Zwei klare Botschaften an den Kanzler. Eine von rechts, eine von links. Beide gegen ihn.",
-    "kategorie": "Regierung Merz"
-  },
-  {
-    "text": "CDU in Schockstarre. Merz macht es noch schlimmer, indem er einfach weitermacht.",
-    "kategorie": "Regierung Merz"
-  },
-  {
-    "text": "Schwesig rettet die SPD in MV – knapp hinter der AfD. Die CDU rettet niemand.",
-    "kategorie": "Landtagswahlen 2026"
-  },
-  {
-    "text": "Die größte Stärke der AfD bleibt die Schwäche der anderen. MV und Berlin sind die Bestätigung nach Sachsen-Anhalt.",
+    "text": "Die größte Stärke der AfD bleibt die Schwäche der anderen. Sachsen-Anhalt, MV und Berlin liefern die Beweise in Serie.",
     "kategorie": "AfD & Umfragen"
   },
   {
-    "text": "Brandmauer-Update: Sie hält gegen die AfD. Gegen die Wähler hält sie nicht mehr.",
+    "text": "CDU-Desaster in MV: 4,9 Prozent. Merz spricht von Desaster. Selbstdiagnose stimmt – die Therapie fehlt noch.",
+    "kategorie": "Regierung Merz"
+  },
+  {
+    "text": "Berlin: Linke vorne, CDU geschwächt, AfD gestärkt, SPD am Boden. Die Hauptstadt hat ein neues politisches Kraftzentrum – und es ist rot.",
+    "kategorie": "Landtagswahlen 2026"
+  },
+  {
+    "text": "Nach dem historischen Aus der CDU in MV: Die Brandmauer steht noch. Sie steht nur etwas einsamer da als zuvor.",
     "kategorie": "Brandmauer"
   },
   {
-    "text": "Nach dem Debakel fordert Merz Konsequenzen. Die Konsequenz heißt bisher: Präsidiumssitzung und Durchhalteparolen.",
+    "text": "Merz will Stabilität. Die Wähler liefern Instabilität. Manchmal bekommt man genau das, wofür man gearbeitet hat.",
     "kategorie": "Regierung Merz"
   },
   {
-    "text": "Linke will Berlin regieren. Streit um Enteignungen schon vor der Koalitionsbildung. Willkommen im neuen Roten Rathaus.",
+    "text": "Zwei Wochen, zwei historische Niederlagen. Sachsen-Anhalt und MV werden in die Geschichtsbücher eingehen – leider auf der falschen Seite für die Union.",
     "kategorie": "Landtagswahlen 2026"
   },
   {
-    "text": "CDU unter fünf Prozent in MV. Manche Zahlen braucht man nicht zu interpretieren – sie interpretieren sich selbst.",
-    "kategorie": "Regierung Merz"
-  },
-  {
-    "text": "Die Wähler haben gesprochen. Merz hört zu – und bleibt. Zuhören war gestern, heute ist Beharren.",
-    "kategorie": "Regierung Merz"
-  },
-  {
-    "text": "AfD stärkste Kraft in MV, Linke in Berlin. Die politische Landkarte Deutschlands wird gerade neu gezeichnet.",
+    "text": "Die Mitte ist in MV fast verschwunden, in Berlin geschrumpft, in Sachsen-Anhalt abgewählt. Schrumpfung als Geschäftsmodell hat klare Grenzen.",
     "kategorie": "AfD & Umfragen"
   },
   {
-    "text": "Merz bleibt Kanzler. Die Frage ist nur, wie viele Landtage die CDU noch verlieren muss, bevor die Partei merkt, dass „weiter so“ keine Strategie ist.",
+    "text": "Merz bleibt im Amt. Die Umfragen bleiben grausam. Die Partei bleibt loyal – vorerst. Kontinuität kann auch eine Form von Verdrängung sein.",
     "kategorie": "Regierung Merz"
   },
   {
-    "text": "Regierungswechsel in Berlin: Die CDU muss das Rote Rathaus räumen. Merz verliert die Hauptstadt – symbolisch und real.",
-    "kategorie": "Landtagswahlen 2026"
-  },
-  {
-    "text": "Die etablierten Parteien liefern Erklärungen. Die Wähler liefern Ergebnisse. In MV und Berlin waren die Ergebnisse besonders eindeutig.",
+    "text": "AfD gewinnt MV, Linke gewinnt Berlin. Die etablierten Parteien verlieren an beiden Enden. Das politische Spektrum dehnt sich – und die Mitte reißt.",
     "kategorie": "AfD & Umfragen"
   },
   {
-    "text": "Söder: Kein Kanzlersturz durch die CSU. Die Wähler in drei Bundesländern haben den Sturz bereits eingeleitet.",
+    "text": "4,9 Prozent in MV: Die CDU ist raus. In Berlin nur noch Zweite. Merz analysiert. Manche Analysen brauchen keine weiteren Daten mehr.",
     "kategorie": "Regierung Merz"
   },
   {
-    "text": "CDU fliegt aus dem Landtag in MV. Erstmals in der Geschichte. Manche Premieren hätte man sich sparen können.",
+    "text": "Die Regierungsbildung in Berlin wird spannend: Linke+Grüne+SPD oder CDU+Grüne+SPD. Die AfD schaut zu und lernt dazu.",
     "kategorie": "Landtagswahlen 2026"
   },
   {
-    "text": "Nach dem Doppel-Wahlabend: Die Brandmauer steht. Die Union kniet. Die AfD und die Linke stehen auf.",
+    "text": "Nach dem Doppel-Desaster: Merz spricht von Verantwortung. Die Wähler haben ihre Verantwortung bereits wahrgenommen – an der Wahlurne.",
+    "kategorie": "Regierung Merz"
+  },
+  {
+    "text": "CDU fliegt in MV aus dem Parlament. Erstmals seit Gründung der Bundesrepublik. Manche Rekorde sind einfach nur peinlich.",
+    "kategorie": "Landtagswahlen 2026"
+  },
+  {
+    "text": "Berlin hat die Linke gestärkt, die CDU geschwächt und die AfD belohnt. Die Hauptstadt bleibt sich treu – nur anders als erwartet.",
+    "kategorie": "Landtagswahlen 2026"
+  },
+  {
+    "text": "Die Brandmauer nach MV: Sie hält noch. Sie muss nur nicht mehr gegen die eigene Partei verteidigt werden, weil die schon draußen ist.",
     "kategorie": "Brandmauer"
   },
   {
-    "text": "Merz im Krisenmodus 2.0: Nach Sachsen-Anhalt jetzt MV und Berlin. Das Programm läuft – und die Zuschauerzahlen sinken weiter.",
+    "text": "Merz wollte die AfD halbieren. Stattdessen hat die AfD die CDU in MV aus dem Landtag gejagt. Mathematik kann so unerbittlich fair sein.",
     "kategorie": "Regierung Merz"
   },
   {
-    "text": "Die politische Mitte in Deutschland: In Sachsen-Anhalt Geschichte, in MV unsichtbar, in Berlin abgewählt. Schrumpfung als Geschäftsmodell.",
+    "text": "SPD in Berlin historisch schwach, in MV stark genug für eine mögliche Regierung. Schwarz-Rot im Bund schaut zu und hofft auf bessere Tage.",
+    "kategorie": "Regierung Merz"
+  },
+  {
+    "text": "Zwei Wahlsonntage, zwei klare Botschaften: Der Osten will Veränderung, Berlin will nach links. Die Bundesregierung liefert weiter Erklärungen.",
     "kategorie": "AfD & Umfragen"
   },
   {
-    "text": "Linke vor CDU in Berlin. Die Hauptstadt hat dem Kanzler die Rechnung präsentiert – und sie war salzig.",
+    "text": "Die CDU ist in MV draußen. In Berlin angeschlagen. Merz bleibt. Manche Kapitäne verlassen das sinkende Schiff nicht – sie ordnen die Liegestühle neu.",
+    "kategorie": "Regierung Merz"
+  },
+  {
+    "text": "AfD in MV bei 38,2 Prozent – stärkste Kraft. In Berlin bei 16,3 – drittstärkste. Die Partei wächst dort, wo die Unzufriedenheit am größten ist.",
+    "kategorie": "AfD & Umfragen"
+  },
+  {
+    "text": "Nach den Wahlen: Merz setzt auf Reformen. Die Wähler setzen auf Alternativen. Die Diskrepanz bleibt das zentrale Merkmal dieser Legislatur.",
+    "kategorie": "Regierung Merz"
+  },
+  {
+    "text": "Linke gewinnt Berlin. AfD gewinnt MV. CDU verliert überall. Die politische Landkarte Deutschlands wird gerade neu gezeichnet – ohne Rücksicht auf alte Gewohnheiten.",
     "kategorie": "Landtagswahlen 2026"
   },
   {
-    "text": "4,9 Prozent für die CDU in MV. Das ist kein Umfragewert mehr. Das ist ein politisches Erdbeben mit Nachbeben in Berlin.",
+    "text": "Die Brandmauer steht noch. In MV musste sie gar nicht mehr stehen, weil niemand mehr da war, der sie hätte einreißen können. Praktisch.",
+    "kategorie": "Brandmauer"
+  },
+  {
+    "text": "Merz nach dem Desaster: Weitermachen. Die Partei nach dem Desaster: Weitermachen. Die Umfragen nach dem Desaster: Weiter nach unten. Konsistenz hat viele Formen.",
     "kategorie": "Regierung Merz"
   },
   {
-    "text": "AfD und Linke als Wahlsieger des Abends. Die Mitte sucht noch nach dem Ausgang – und findet ihn nicht.",
+    "text": "4,9 Prozent für die CDU in MV. Das ist weniger als der Abstand mancher Fehlerquote. Historisch, demütigend und selbst erarbeitet.",
+    "kategorie": "Landtagswahlen 2026"
+  },
+  {
+    "text": "Berlin hat gewählt: Linke vorne, Union geschwächt, AfD gestärkt. Die Hauptstadt bleibt ein politisches Labor – nur die Ergebnisse werden immer extremer.",
+    "kategorie": "Landtagswahlen 2026"
+  },
+  {
+    "text": "Die größte Schwäche der Union bleibt ihre Unfähigkeit, aus Niederlagen zu lernen. Sachsen-Anhalt, MV und Berlin sind die aktuellen Belege.",
+    "kategorie": "Regierung Merz"
+  },
+  {
+    "text": "AfD und Linke gewinnen, Union und SPD verlieren. Das politische Zentrum schrumpft weiter. Willkommen im polarisierten Deutschland 2026.",
     "kategorie": "AfD & Umfragen"
   },
   {
-    "text": "Merz bleibt. Die Brandmauer bleibt. Die Unzufriedenheit bleibt. Manche Dinge ändern sich einfach nicht – egal wie klar die Ergebnisse sind.",
+    "text": "Merz bleibt Kanzler. Die Frage ist nur noch, wie viele weitere Desaster nötig sind, bis auch die eigene Partei die Reißleine zieht.",
     "kategorie": "Regierung Merz"
   },
   {
-    "text": "Nach drei historischen Niederlagen in Folge: Merz analysiert weiter. Irgendwann wird aus Analyse nur noch Dokumentation des Niedergangs.",
+    "text": "Nach MV und Berlin: Die Brandmauer ist das letzte Argument, wenn alle anderen fehlen. Und gerade fehlen besonders viele.",
+    "kategorie": "Brandmauer"
+  },
+  {
+    "text": "Die CDU ist in einem Bundesland aus dem Landtag geflogen. Erstmals. Merz bleibt. Manche halten das für Stabilität. Andere für Sturheit.",
     "kategorie": "Regierung Merz"
   }
 ]

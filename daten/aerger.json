@@ -1,157 +1,5 @@
 [
   {
-    "text": "Wir setzen auf 'Post-Industrie' – ein schicker Begriff für Arbeitslosigkeit.",
-    "kategorie": "Wirtschaft & Industrie"
-  },
-  {
-    "text": "Standort Deutschland: Teuer, langsam und bald ohne Strom.",
-    "kategorie": "Wirtschaft & Industrie"
-  },
-  {
-    "text": "Deindustrialisierung: Das Konzept, Deutschland in ein Freilichtmuseum für Ruinen zu verwandeln.",
-    "kategorie": "Wirtschaft & Industrie"
-  },
-  {
-    "text": "Industrie 4.0: Wir haben die Industrie, die anderen haben die 4.0.",
-    "kategorie": "Wirtschaft & Industrie"
-  },
-  {
-    "text": "Die letzte Schraube wird gerade eingeschraubt, danach wird das Licht ausgemacht.",
-    "kategorie": "Wirtschaft & Industrie"
-  },
-  {
-    "text": "Wir sind Weltmeister – im Abbau unserer eigenen wirtschaftlichen Basis.",
-    "kategorie": "Wirtschaft & Industrie"
-  },
-  {
-    "text": "Deutschland wird grün – durch Abwesenheit von Produktion.",
-    "kategorie": "Wirtschaft & Industrie"
-  },
-  {
-    "text": "Bürokratie ist das einzige Produkt, das wir in Massen produzieren.",
-    "kategorie": "Bürokratie"
-  },
-  {
-    "text": "Wir haben die Effizienz durch Dokumentation ersetzt.",
-    "kategorie": "Bürokratie"
-  },
-  {
-    "text": "Wir verwalten die Zukunft von gestern.",
-    "kategorie": "Bürokratie"
-  },
-  {
-    "text": "Bürokratie ist wie ein Puzzle, bei dem alle Teile zu anderen Boxen gehören.",
-    "kategorie": "Bürokratie"
-  },
-  {
-    "text": "Bürokratie ist der Grund, warum wir keine Zeit für das Wichtige haben.",
-    "kategorie": "Bürokratie"
-  },
-  {
-    "text": "Wir verwalten den Leerstand mit großer Hingabe.",
-    "kategorie": "Bürokratie"
-  },
-  {
-    "text": "Bürokratie: Wenn der Weg das Ziel ist, aber der Weg eine Sackgasse.",
-    "kategorie": "Bürokratie"
-  },
-  {
-    "text": "Diplomatie ist wie ein Puzzle, bei dem alle Teile im Krieg verloren gingen.",
-    "kategorie": "Ukraine & Außenpolitik"
-  },
-  {
-    "text": "Wir schicken Waffen, damit der Frieden schneller ankommt – in Stücken.",
-    "kategorie": "Ukraine & Außenpolitik"
-  },
-  {
-    "text": "Die rote Linie wurde so oft verschoben, dass sie jetzt in Sibirien liegt.",
-    "kategorie": "Ukraine & Außenpolitik"
-  },
-  {
-    "text": "Sanktionen wirken genau dann, wenn man sie nicht mehr braucht – also nie.",
-    "kategorie": "Ukraine & Außenpolitik"
-  },
-  {
-    "text": "Friedensgespräche: Wenn man sich einig ist, dass man sich nicht einig wird.",
-    "kategorie": "Ukraine & Außenpolitik"
-  },
-  {
-    "text": "Ein Panzer für den Frieden ist wie ein Feuerlöscher mit Benzin.",
-    "kategorie": "Ukraine & Außenpolitik"
-  },
-  {
-    "text": "Wir sind Experten in der Eskalationsleiter – wir haben den Sprung nach ganz oben geschafft.",
-    "kategorie": "Ukraine & Außenpolitik"
-  },
-  {
-    "text": "Die Geopolitik spielt Schach, während die Bevölkerung das Brett ist.",
-    "kategorie": "Ukraine & Außenpolitik"
-  },
-  {
-    "text": "Der Krieg ist die Fortsetzung der Politik mit anderen – meist sehr teuren – Mitteln.",
-    "kategorie": "Ukraine & Außenpolitik"
-  },
-  {
-    "text": "Hitzeaktionsplan: Wälder brennen, Flüsse trocknen, Regierung überlegt.",
-    "kategorie": "Klimapolitik"
-  },
-  {
-    "text": "Klimaanpassung ins Grundgesetz? Die Union lehnt ab – zu heiß für sie.",
-    "kategorie": "Klimapolitik"
-  },
-  {
-    "text": "Der Sommer 2026: Endlich spüren wir den Klimawandel – und die Regierung diskutiert.",
-    "kategorie": "Klimapolitik"
-  },
-  {
-    "text": "Hitze totet, die Politik redet von Aktionsplänen.",
-    "kategorie": "Klimapolitik"
-  },
-  {
-    "text": "Klimaschutz muss wieder ins Zentrum – sagt man, während man woanders hinschaut.",
-    "kategorie": "Klimapolitik"
-  },
-  {
-    "text": "Niedrigwasser am Rhein: Der Krisenstab kommt, wenn das Wasser schon weg ist.",
-    "kategorie": "Klimapolitik"
-  },
-  {
-    "text": "Wir retten das Klima, indem wir die Heizung zur Luxusware befördern.",
-    "kategorie": "Klimapolitik"
-  },
-  {
-    "text": "CO2-Steuer: Der moderne Ablasshandel, nur ohne die Aussicht auf Erlösung.",
-    "kategorie": "Klimapolitik"
-  },
-  {
-    "text": "Wir bezahlen für unsere Existenz – das ist der grünste Weg in den Ruin.",
-    "kategorie": "Klimapolitik"
-  },
-  {
-    "text": "Hauptsache wir zahlen – ob das Klima davon merkt, ist zweitrangig.",
-    "kategorie": "Klimapolitik"
-  },
-  {
-    "text": "Klimapolitik: Wir machen den Alltag so teuer, dass man sich das Leben spart.",
-    "kategorie": "Klimapolitik"
-  },
-  {
-    "text": "Die Sonne scheint – und die Regierung sucht den Schatten der Verantwortung.",
-    "kategorie": "Klimapolitik"
-  },
-  {
-    "text": "Gesundheitsreform: Weniger Leistung für mehr Beitrag – ein echtes Schnäppchen.",
-    "kategorie": "Gesundheitsreform"
-  },
-  {
-    "text": "Wir reformieren das Gesundheitssystem, bis keiner mehr weiß, wer zuständig ist.",
-    "kategorie": "Gesundheitsreform"
-  },
-  {
-    "text": "Wir haben das beste Gesundheitssystem der Welt – laut einer Studie von 1980.",
-    "kategorie": "Gesundheitsreform"
-  },
-  {
     "text": "CDU in Sachsen-Anhalt: Zwischen Linke und AfD – der neue Balanceakt ohne Netz.",
     "kategorie": "Landtagswahlen 2026"
   },
@@ -160,23 +8,7 @@
     "kategorie": "Landtagswahlen 2026"
   },
   {
-    "text": "ARD-DeutschlandTrend: AfD bei 27, Merz-Zufriedenheit bei 13. Die Mathematik der Enttäuschung.",
-    "kategorie": "AfD & Umfragen"
-  },
-  {
-    "text": "Nur 13 Prozent zufrieden mit Merz – historischer Tiefstwert. Die Sommerpause hat geholfen – nach unten.",
-    "kategorie": "Regierung Merz"
-  },
-  {
-    "text": "Schwarz-Rot kommt gemeinsam auf 34 Prozent. Die AfD freut sich über den Rest.",
-    "kategorie": "AfD & Umfragen"
-  },
-  {
     "text": "Merz wollte die AfD halbieren. Stattdessen hat er seine eigenen Umfragen halbiert.",
-    "kategorie": "Regierung Merz"
-  },
-  {
-    "text": "84 Prozent unzufrieden mit der Regierung – das ist keine Krise, das ist der neue Normalzustand.",
     "kategorie": "Regierung Merz"
   },
   {
@@ -194,14 +26,6 @@
   {
     "text": "Die Brandmauer ist stabil wie die Umfragewerte der Union – also wackelig.",
     "kategorie": "Brandmauer"
-  },
-  {
-    "text": "Drohnen über Leipzig: Russland wird beschuldigt, die Regierung antwortet mit einer weiteren Pressekonferenz.",
-    "kategorie": "Sicherheit & Hybridkrieg"
-  },
-  {
-    "text": "Hybridkrieg 2026: Putin schickt Drohnen, wir schicken Ermittlungsgruppen und Hoffnung.",
-    "kategorie": "Sicherheit & Hybridkrieg"
   },
   {
     "text": "Anschlag auf kritische Infrastruktur: Die Behörden vermuten Russland – und erhöhen die Warnstufe auf 'besorgt'.",
@@ -488,16 +312,8 @@
     "kategorie": "Regierung Merz"
   },
   {
-    "text": "Bundesweit AfD bei 29, Union bei 20. Merz wollte die AfD halbieren. Stattdessen hat die AfD die Union auf Abstand gehalten – und das mit Stil.",
-    "kategorie": "AfD & Umfragen"
-  },
-  {
     "text": "Die Regierungsbildung in Magdeburg stockt. Die AfD hat 39 Sitze, die anderen zählen noch. Demokratie als Rechenspiel – mit offenem Ausgang und geschlossenen Türen.",
     "kategorie": "Landtagswahlen 2026"
-  },
-  {
-    "text": "Merz-Zufriedenheit bei 14 Prozent. Selbst unter Unionswählern wird es eng. Man nennt das dann „interne Diskussion“ – die Wähler nennen es Abwahl auf Raten.",
-    "kategorie": "Regierung Merz"
   },
   {
     "text": "Brandmauer-Update nach Sachsen-Anhalt: Sie steht noch. Sie ist nur mittlerweile so porös, dass man durch sie hindurch die nächste Niederlage schon sehen kann.",
@@ -528,10 +344,6 @@
     "kategorie": "Regierung Merz"
   },
   {
-    "text": "14 Prozent halten Merz noch für den richtigen Kanzler. 78 Prozent nicht. Das ist keine Umfrage mehr – das ist ein Misstrauensvotum in Zeitlupe.",
-    "kategorie": "Regierung Merz"
-  },
-  {
     "text": "Sachsen-Anhalt hat die Brandmauer auf die Probe gestellt. Berlin und MV werden sie weiter belasten. Irgendwann reißt auch der stabilste Beton.",
     "kategorie": "Brandmauer"
   },
@@ -556,10 +368,6 @@
     "kategorie": "Brandmauer"
   },
   {
-    "text": "AfD bundesweit bei 29 Prozent. Die Union bei 20. Merz hat die AfD nicht halbiert – er hat den Abstand vergrößert. Mathematik kann so unerbittlich sein.",
-    "kategorie": "AfD & Umfragen"
-  },
-  {
     "text": "Die politische Mitte in Deutschland: In Sachsen-Anhalt bereits Geschichte, in MV fast unsichtbar, in Berlin noch kämpfend. Schrumpfung als Geschäftsmodell.",
     "kategorie": "AfD & Umfragen"
   },
@@ -568,20 +376,12 @@
     "kategorie": "Regierung Merz"
   },
   {
-    "text": "Sachsen-Anhalt war der Warnschuss. Berlin und MV könnten der Volltreffer werden. Die Brandmauer zittert schon vorausschauend.",
-    "kategorie": "Brandmauer"
-  },
-  {
     "text": "CDU-Halbierung in Sachsen-Anhalt, historisches Tief in MV. Merz analysiert weiter. Irgendwann wird aus Analyse nur noch Dokumentation des Niedergangs.",
     "kategorie": "Regierung Merz"
   },
   {
     "text": "Die AfD liefert Ergebnisse. Die etablierten Parteien liefern Erklärungen. Die Wähler entscheiden sich zunehmend für Ersteres.",
     "kategorie": "AfD & Umfragen"
-  },
-  {
-    "text": "Berlin: Linke vorne, CDU knapp dahinter, AfD stabil. Die Hauptstadt zeigt, wie man aus einer Volkspartei eine von vielen macht – und das in Rekordzeit.",
-    "kategorie": "Landtagswahlen 2026"
   },
   {
     "text": "Nach Sachsen-Anhalt: Die Brandmauer hält. Sie hält nur nicht mehr besonders gut. Und die nächsten Wahlen stehen schon vor der Tür.",
@@ -797,6 +597,206 @@
   },
   {
     "text": "10 Prozent Zufriedenheit mit dem Kanzler. 30 Prozent für die AfD. Die Zahlen sprechen eine klare Sprache – und Merz hört weiter zu.",
+    "kategorie": "Regierung Merz"
+  },
+  {
+    "text": "Berlin-Wahl ist vorbei: Linke 25,7 Prozent, CDU 18,8, AfD 16,3. Die Hauptstadt hat die alte Ordnung abgewählt – und die neue noch nicht richtig gewählt.",
+    "kategorie": "Landtagswahlen 2026"
+  },
+  {
+    "text": "In Berlin regiert künftig vermutlich Rot-Rot-Grün. Die CDU ist nur noch Zweite und schaut zu, wie die Linke das Ruder übernimmt.",
+    "kategorie": "Landtagswahlen 2026"
+  },
+  {
+    "text": "MV: AfD stärkste Kraft, CDU aus dem Landtag geflogen. Berlin: Linke vorne. Der Osten und die Hauptstadt haben gesprochen – die Union hat zugehört und nichts verstanden.",
+    "kategorie": "Landtagswahlen 2026"
+  },
+  {
+    "text": "AfD bei 30 Prozent bundesweit, Union bei 18. Der Abstand beträgt zwölf Punkte. Merz wollte die AfD halbieren – die AfD hat die Union fast verdoppelt.",
+    "kategorie": "AfD & Umfragen"
+  },
+  {
+    "text": "Nur noch 10 Prozent zufrieden mit Merz. Historischer Tiefstand. Selbst die eigenen Umfragewerte der Union sehen besser aus – und die sind schon historisch schlecht.",
+    "kategorie": "Regierung Merz"
+  },
+  {
+    "text": "79 Prozent unzufrieden mit dem Kanzler. Die verbleibenden 21 Prozent verteilen sich auf Zufriedene und Unentschlossene. Die Demokratie hat abgestimmt.",
+    "kategorie": "Regierung Merz"
+  },
+  {
+    "text": "Sachsen-Anhalt: Am 6. Oktober konstituiert sich der Landtag. Die AfD stellt die stärkste Fraktion. Das BSW hat fünf Sitze und plötzlich sehr viel Macht.",
+    "kategorie": "Landtagswahlen 2026"
+  },
+  {
+    "text": "CDU in Sachsen-Anhalt geht in die Opposition. Gespräche mit der SPD abgelehnt. Manchmal ist Prinzipientreue nur die elegante Form des Rückzugs.",
+    "kategorie": "Landtagswahlen 2026"
+  },
+  {
+    "text": "Die Brandmauer steht noch. In den Umfragen steht die AfD bei 30 Prozent. Die Mauer wird teurer, je länger man sie hält.",
+    "kategorie": "Brandmauer"
+  },
+  {
+    "text": "Schwarz-Rot gemeinsam bei 32 Prozent. Eine Mehrheit ist rechnerisch unmöglich. Willkommen im fragmentierten Parteiensystem, in dem Kenia plötzlich realistisch wird.",
+    "kategorie": "Regierung Merz"
+  },
+  {
+    "text": "Berlin hat die Linke zur stärksten Kraft gemacht. Die CDU verliert massiv, die SPD fällt auf 12,1 Prozent. Die Volksparteien von gestern sind die Mittelparteien von heute.",
+    "kategorie": "Landtagswahlen 2026"
+  },
+  {
+    "text": "Merz bleibt im Amt. Die Umfragen bleiben grausam. Die Partei bleibt loyal – vorerst. Kontinuität kann auch eine Form von kollektiver Verdrängung sein.",
+    "kategorie": "Regierung Merz"
+  },
+  {
+    "text": "AfD knackt die 30-Prozent-Marke. Zum ersten Mal in einer großen bundesweiten Umfrage. Die Zeitenwende hat Zahlen bekommen.",
+    "kategorie": "AfD & Umfragen"
+  },
+  {
+    "text": "In Magdeburg droht ein 39-zu-39-Patt plus BSW. Demokratie als Rechenspiel mit fünf unberechenbaren Stimmen in der Mitte.",
+    "kategorie": "Landtagswahlen 2026"
+  },
+  {
+    "text": "Die Mitte schrumpft auf unter ein Drittel. Union und SPD zusammen bei 32 Prozent. Die Ränder definieren inzwischen die Spielregeln.",
+    "kategorie": "AfD & Umfragen"
+  },
+  {
+    "text": "Nach Berlin und MV: Die Brandmauer ist das letzte Argument, wenn alle anderen fehlen. Und gerade fehlen besonders viele Argumente.",
+    "kategorie": "Brandmauer"
+  },
+  {
+    "text": "Merz-Zufriedenheit bei 10 Prozent. Der niedrigste Wert eines Kanzlers im Deutschlandtrend seit Beginn der Messungen. Rekord ohne Applaus.",
+    "kategorie": "Regierung Merz"
+  },
+  {
+    "text": "Zwölf Punkte Vorsprung der AfD vor der Union. Das ist kein Vorsprung mehr – das ist eine Kluft, die man mit bloßen Augen sehen kann.",
+    "kategorie": "AfD & Umfragen"
+  },
+  {
+    "text": "Die Regierungsbildung in Sachsen-Anhalt wird zum Lackmustest. Am 6. Oktober beginnt die praktische Prüfung der Brandmauer.",
+    "kategorie": "Brandmauer"
+  },
+  {
+    "text": "CDU/CSU bei 18 Prozent – Rekordtief. AfD bei 30 – Rekordhoch. Parallelverläufe können so unerbittlich fair sein.",
+    "kategorie": "AfD & Umfragen"
+  },
+  {
+    "text": "Nur noch Kenia-Koalition oder Nähe zur AfD wären mehrheitsfähig. Die Brandmauer wird zur Koalitionszwangsjacke.",
+    "kategorie": "Brandmauer"
+  },
+  {
+    "text": "Berlin-Wahl nach dem Ergebnis: Linke jubelt, CDU trauert, AfD lacht sich ins Fäustchen. Die Hauptstadt bleibt sich treu – nur anders als geplant.",
+    "kategorie": "Landtagswahlen 2026"
+  },
+  {
+    "text": "Merz wollte die AfD stoppen. Stattdessen stoppt die AfD gerade die Union in den Umfragen – und das mit historischer Deutlichkeit.",
+    "kategorie": "Regierung Merz"
+  },
+  {
+    "text": "79 Prozent unzufrieden mit der Bundesregierung. 14 Prozent zufrieden. Das ist keine Krise mehr – das ist der neue Normalzustand.",
+    "kategorie": "Regierung Merz"
+  },
+  {
+    "text": "Sachsen-Anhalt: Das BSW wird zum Zünglein an der Waage. Fünf Abgeordnete, maximale Aufmerksamkeit. Kleine Fraktion, große Bühne.",
+    "kategorie": "Landtagswahlen 2026"
+  },
+  {
+    "text": "Die größte Stärke der AfD bleibt die Schwäche der anderen. Die neuen Umfragen und die Ost-Wahlergebnisse sind der bisher deutlichste Beweis.",
+    "kategorie": "AfD & Umfragen"
+  },
+  {
+    "text": "Nach dem Doppel-Desaster im September und den Umfragen im Oktober: Die etablierten Parteien diskutieren Stabilität. Die Wähler haben Stabilität abgewählt.",
+    "kategorie": "AfD & Umfragen"
+  },
+  {
+    "text": "Merz bleibt Kanzler. Die Frage ist nicht mehr, ob die Partei ihn stützt – sondern wie lange sie das noch durchhält, bevor die Umfragen die Entscheidung abnehmen.",
+    "kategorie": "Regierung Merz"
+  },
+  {
+    "text": "In Berlin droht Rot-Rot-Grün. In MV ebenfalls. Die Union wird zur regionalen Randnotiz – und das in Rekordzeit.",
+    "kategorie": "Landtagswahlen 2026"
+  },
+  {
+    "text": "AfD 30, Union 18. Der Abstand wächst. Merz bleibt. Manche halten das für Stabilität. Andere für Sturheit im Endstadium.",
+    "kategorie": "Regierung Merz"
+  },
+  {
+    "text": "Die politische Mitte in Deutschland: Unter 35 Prozent für Schwarz-Rot. Die Ränder wachsen, die Mitte schrumpft. Polarisierung als neues Normal.",
+    "kategorie": "AfD & Umfragen"
+  },
+  {
+    "text": "Landtag Sachsen-Anhalt: Konstituierung am 6. Oktober. Die AfD könnte den Präsidenten stellen. Die Brandmauer bekommt Gesellschaft von der Realität.",
+    "kategorie": "Landtagswahlen 2026"
+  },
+  {
+    "text": "Nur noch jeder Zehnte ist mit Merz zufrieden. Der Rest hat sich bereits entschieden – und die Umfragen zeigen es gnadenlos.",
+    "kategorie": "Regierung Merz"
+  },
+  {
+    "text": "Die Brandmauer hält stand. Gegen die Umfragen, gegen die Wahlergebnisse und gegen die Mathematik. Durchhaltevermögen in Reinform.",
+    "kategorie": "Brandmauer"
+  },
+  {
+    "text": "AfD knackt die 30. Die Volksparteien von gestern werden zu Nischenparteien von heute. Der Wandel ist messbar und schmerzhaft.",
+    "kategorie": "AfD & Umfragen"
+  },
+  {
+    "text": "Regierungsbildung Sachsen-Anhalt: 39 zu 39 plus BSW. Demokratie als mathematische Herausforderung mit politischem Sprengstoff.",
+    "kategorie": "Landtagswahlen 2026"
+  },
+  {
+    "text": "Die Union fällt auf 18 Prozent. Merz fällt auf 10 Prozent Zufriedenheit. Parallelverluste sind zumindest konsequent.",
+    "kategorie": "Regierung Merz"
+  },
+  {
+    "text": "Nach Berlin und MV ist die Brandmauer das letzte Argument, das noch übrig ist. Alle anderen sind bereits widerlegt.",
+    "kategorie": "Brandmauer"
+  },
+  {
+    "text": "Insa: AfD 30, CDU/CSU 18. Der größte Abstand seit Beginn der Messungen. Manche Rekorde möchte man wirklich nicht brechen.",
+    "kategorie": "AfD & Umfragen"
+  },
+  {
+    "text": "Merz im Umfragetief: 10 bis 15 Prozent Zufriedenheit. Die Sommerpause war offenbar die produktivste Phase seiner Kanzlerschaft – nach unten.",
+    "kategorie": "Regierung Merz"
+  },
+  {
+    "text": "Berlin hat gewählt: Linke vorne, CDU geschwächt, AfD gestärkt, SPD am Boden. Die Hauptstadt bleibt ein politisches Labor – mit immer extremeren Ergebnissen.",
+    "kategorie": "Landtagswahlen 2026"
+  },
+  {
+    "text": "Die Mitte schrumpft weiter. Union und SPD zusammen unter einem Drittel. Die Ränder definieren inzwischen die Spielregeln der Republik.",
+    "kategorie": "AfD & Umfragen"
+  },
+  {
+    "text": "Sachsen-Anhalt: CDU lehnt Gespräche ab und geht in die Opposition. Konsequenz oder Kapitulation – die Grenze ist fließend geworden.",
+    "kategorie": "Landtagswahlen 2026"
+  },
+  {
+    "text": "AfD bei 30 Prozent, Union bei 18. Merz wollte die AfD halbieren. Die AfD hat die Union fast verdoppelt. Rollenwechsel komplett.",
+    "kategorie": "Regierung Merz"
+  },
+  {
+    "text": "Die Regierungsbildung in Magdeburg stockt. Die AfD hat Zeit. Die anderen haben Prinzipien. Und das BSW hat plötzlich das Zepter in der Hand.",
+    "kategorie": "Landtagswahlen 2026"
+  },
+  {
+    "text": "Nur noch Kenia oder die AfD. Die Brandmauer wird zur teuren Illusion, je länger man an ihr festhält.",
+    "kategorie": "Brandmauer"
+  },
+  {
+    "text": "10 Prozent Zufriedenheit mit dem Kanzler. 30 Prozent für die AfD. Die Zahlen sprechen eine klare Sprache – und Merz hört weiter zu.",
+    "kategorie": "Regierung Merz"
+  },
+  {
+    "text": "Nach den Wahlen in Berlin und MV und den neuen Umfragen: Die etablierten Parteien liefern Erklärungen. Die Wähler liefern Ergebnisse.",
+    "kategorie": "AfD & Umfragen"
+  },
+  {
+    "text": "Die Brandmauer nach dem Oktober-Update: Sie steht noch. Sie ist nur deutlich teurer und durchsichtiger geworden.",
+    "kategorie": "Brandmauer"
+  },
+  {
+    "text": "Merz bleibt. Die Umfragen bleiben grausam. Die Partei bleibt loyal. Manche Formen der Kontinuität sind einfach nur die Weigerung, die Realität anzuerkennen.",
     "kategorie": "Regierung Merz"
   }
 ]

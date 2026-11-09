@@ -1,642 +1,14 @@
 [
   {
-    "text": "Das Online-Formular ist fertig. Zum Absenden bitte ausdrucken, unterschreiben und faxen.",
-    "kategorie": "Digitalisierung"
-  },
-  {
-    "text": "Die neue Behörden-App hat 4,9 Sterne. Alle von Mitarbeitern, die sie installieren mussten.",
-    "kategorie": "Digitalisierung"
-  },
-  {
-    "text": "Der Glasfaseranschluss kommt 2031. Die Baustelle davor ist schon seit 2024 da.",
-    "kategorie": "Digitalisierung"
-  },
-  {
-    "text": "Die Digitalisierung der Verwaltung läuft planmäßig: Das Fax hat jetzt ein Deckblatt im PDF-Format.",
-    "kategorie": "Digitalisierung"
-  },
-  {
-    "text": "Die E-Akte wurde eingeführt. Damit sie nicht verloren geht, wird sie zusätzlich in Papier abgeheftet.",
-    "kategorie": "Digitalisierung"
-  },
-  {
-    "text": "Das Passwort muss 16 Zeichen, ein Sonderzeichen und eine Sachbearbeiter-Unterschrift enthalten.",
-    "kategorie": "Digitalisierung"
-  },
-  {
-    "text": "Die Steuer-Software läuft stabil, solange man nichts eingibt.",
-    "kategorie": "Digitalisierung"
-  },
-  {
-    "text": "Digitaler Personalausweis beantragt. Abholung bitte persönlich, mit dem alten Ausweis und Geduld.",
-    "kategorie": "Digitalisierung"
-  },
-  {
-    "text": "Das Update wurde verschoben, weil das Update-Programm ein Update braucht.",
-    "kategorie": "Digitalisierung"
-  },
-  {
-    "text": "Die neue Bürger-Hotline ist rund um die Uhr erreichbar – per Warteschleife.",
-    "kategorie": "Digitalisierung"
-  },
-  {
-    "text": "Die Digitalstrategie umfasst 312 Seiten. Digital verfügbar ist sie nicht.",
-    "kategorie": "Digitalisierung"
-  },
-  {
-    "text": "Die KI im Amt beantwortet jede Frage mit: Bitte reichen Sie das schriftlich ein.",
-    "kategorie": "Digitalisierung"
-  },
-  {
-    "text": "Online-Wahl wurde getestet. Ergebnis: 104 Prozent Beteiligung.",
-    "kategorie": "Digitalisierung"
-  },
-  {
-    "text": "Die Behörde hat jetzt Instagram. Der letzte Post: Wir haben wegen Systemumstellung geschlossen.",
-    "kategorie": "Digitalisierung"
-  },
-  {
-    "text": "Der Breitbandausbau ist auf der Zielgeraden. Die Zielgerade ist 40 Kilometer lang und unbefestigt.",
-    "kategorie": "Digitalisierung"
-  },
-  {
-    "text": "Beim Bürgerportal muss man sich registrieren, um zu erfahren, dass man sich vor Ort registrieren muss.",
-    "kategorie": "Digitalisierung"
-  },
-  {
-    "text": "Die Schul-Cloud ist sicher. So sicher, dass auch die Lehrer nicht reinkommen.",
-    "kategorie": "Digitalisierung"
-  },
-  {
-    "text": "Der Antrag wurde digital eingereicht und analog verloren.",
-    "kategorie": "Digitalisierung"
-  },
-  {
-    "text": "Die neue Software ersetzt drei Programme. Jetzt braucht man vier, um sie zu bedienen.",
-    "kategorie": "Digitalisierung"
-  },
-  {
-    "text": "Das Rathaus-WLAN heißt 'Gast'. Das Passwort steht auf einem Zettel im verschlossenen Schrank.",
-    "kategorie": "Digitalisierung"
-  },
-  {
-    "text": "Videosprechstunde beim Amt: Bild eingefroren, Ton weg, Bescheid kommt per Post.",
-    "kategorie": "Digitalisierung"
-  },
-  {
-    "text": "Der Datenschutz verbietet es dem Amt, die Daten zu nutzen, die es selbst angefordert hat.",
-    "kategorie": "Digitalisierung"
-  },
-  {
-    "text": "Mein Router hat mehr Uptime als die Digitalpolitik der letzten zwanzig Jahre.",
-    "kategorie": "Digitalisierung"
-  },
-  {
-    "text": "Die App zur Terminbuchung ist da. Termine zur Einweisung in die App gibt es am Schalter.",
-    "kategorie": "Digitalisierung"
-  },
-  {
-    "text": "Das Faxgerät im Ministerium hat einen Bestandsschutz-Antrag gestellt – und gewonnen.",
-    "kategorie": "Digitalisierung"
-  },
-  {
-    "text": "Die Behörden-Webseite ist barrierefrei. Barrierefrei unbenutzbar, für alle gleichermaßen.",
-    "kategorie": "Digitalisierung"
-  },
-  {
-    "text": "Die Regierung hat einen Arbeitskreis gegründet, der prüfen soll, warum so viele Arbeitskreise gegründet werden.",
-    "kategorie": "Regierung"
-  },
-  {
-    "text": "Der Minister kündigte eine schnelle, unbürokratische Lösung an. Antragsformular folgt in drei Teilen.",
-    "kategorie": "Regierung"
-  },
-  {
-    "text": "Die Koalition ist sich einig: Man ist sich uneinig.",
-    "kategorie": "Regierung"
-  },
-  {
-    "text": "Die Pressekonferenz wurde verschoben, weil man sich nicht auf das Mikrofon einigen konnte.",
-    "kategorie": "Regierung"
-  },
-  {
-    "text": "Der Haushalt ist ausgeglichen – zwischen zwei Sondervermögen.",
-    "kategorie": "Regierung"
-  },
-  {
-    "text": "Ein neues Gesetz soll Gesetze vereinfachen. Es hat 180 Paragrafen.",
-    "kategorie": "Regierung"
-  },
-  {
-    "text": "Der Bürgerdialog fand statt. Die Bürger durften zuhören.",
-    "kategorie": "Regierung"
-  },
-  {
-    "text": "Das Ministerium hat eine Studie in Auftrag gegeben, die bestätigt, dass Studien teuer sind.",
-    "kategorie": "Regierung"
-  },
-  {
-    "text": "Der Kanzler sagt, er sei nah bei den Menschen. Die Menschen haben ihn zuletzt im Fernsehen gesehen.",
-    "kategorie": "Regierung"
-  },
-  {
-    "text": "Die Kommission hat ihren Abschlussbericht vorgelegt. Darin empfiehlt sie eine neue Kommission.",
-    "kategorie": "Regierung"
-  },
-  {
-    "text": "Das Wahlversprechen wurde gehalten – für die Dauer des Wahlkampfs.",
-    "kategorie": "Regierung"
-  },
-  {
-    "text": "Die Regierung reagiert entschlossen: mit einer Prüfung, ob man reagieren sollte.",
-    "kategorie": "Regierung"
-  },
-  {
-    "text": "Die Rentenreform ist sicher. Wie sicher, erfahren Sie mit 67 – oder 70.",
-    "kategorie": "Regierung"
-  },
-  {
-    "text": "Der Minister ist zurückgetreten und hat einen Beraterposten angetreten. Beraten wird die Regierung.",
-    "kategorie": "Regierung"
-  },
-  {
-    "text": "Die Opposition kritisiert die Regierung. Die Regierung kritisiert die Kritik. Alle sind beschäftigt.",
-    "kategorie": "Regierung"
-  },
-  {
-    "text": "Der Gesetzentwurf wurde geleakt, bevor ihn die Minister selbst gelesen hatten.",
-    "kategorie": "Regierung"
-  },
-  {
-    "text": "Die neue Förderung ist großzügig. Der Antrag dafür auch – 47 Seiten.",
-    "kategorie": "Regierung"
-  },
-  {
-    "text": "Im Bundestag wurde lebhaft debattiert. Anwesend waren 23 Abgeordnete und eine Schulklasse.",
-    "kategorie": "Regierung"
-  },
-  {
-    "text": "Die Regierung hat das Problem erkannt und einen Beauftragten für das Problem ernannt.",
-    "kategorie": "Regierung"
-  },
-  {
-    "text": "Ein runder Tisch wurde einberufen. Leider fehlt der Tisch.",
-    "kategorie": "Regierung"
-  },
-  {
-    "text": "Die Maßnahme wirkt, sagt das Ministerium. Messen kann man es leider nicht.",
-    "kategorie": "Regierung"
-  },
-  {
-    "text": "Die Diätenerhöhung wurde in Rekordzeit beschlossen. Alles andere bleibt im Ausschuss.",
-    "kategorie": "Regierung"
-  },
-  {
-    "text": "Das Ministerium plant einen Neustart. Der alte Start wurde nie abgeschlossen.",
-    "kategorie": "Regierung"
-  },
-  {
-    "text": "Der Minister ruft zum Sparen auf – live aus der Regierungsmaschine.",
-    "kategorie": "Regierung"
-  },
-  {
-    "text": "Die Verordnung wurde zurückgezogen, überarbeitet und unverändert wieder eingebracht.",
-    "kategorie": "Regierung"
-  },
-  {
-    "text": "Der Rechnungshof ist empört. Das war er letztes Jahr auch. Und vorletztes.",
-    "kategorie": "Regierung"
-  },
-  {
-    "text": "Das Gesetz zur Beschleunigung von Verfahren steckt seit vier Jahren im Verfahren.",
-    "kategorie": "Regierung"
-  },
-  {
-    "text": "Der Bundesrat stimmt zu, lehnt ab und ruft den Vermittlungsausschuss an – in einer Sitzung.",
-    "kategorie": "Regierung"
-  },
-  {
-    "text": "Der Zug hat 45 Minuten Verspätung. Die Bahn spricht von einer leichten Abweichung vom Fahrplan.",
-    "kategorie": "Infrastruktur"
-  },
-  {
-    "text": "Die Baustelle ruht. Sie ruht schon seit drei Jahren sehr erfolgreich.",
-    "kategorie": "Infrastruktur"
-  },
-  {
-    "text": "Ersatzverkehr mit Bussen eingerichtet. Der Bus fährt ab dem Bahnhof, der gerade gesperrt ist.",
-    "kategorie": "Infrastruktur"
-  },
-  {
-    "text": "Der Radweg endet nach 200 Metern im Gebüsch. Man nennt es Naturerlebnis.",
-    "kategorie": "Infrastruktur"
-  },
-  {
-    "text": "Die Schlaglöcher werden markiert. Für das Auffüllen fehlt noch die Ausschreibung.",
-    "kategorie": "Infrastruktur"
-  },
-  {
-    "text": "Der Fahrstuhl am Bahnhof ist defekt. Seit der Eröffnung. Er gilt inzwischen als Denkmal.",
-    "kategorie": "Infrastruktur"
-  },
-  {
-    "text": "Die Brücke ist gesperrt, weil sie geprüft wird. Geprüft wird sie, weil sie gesperrt ist.",
-    "kategorie": "Infrastruktur"
-  },
-  {
-    "text": "Die neue S-Bahn-Linie ist eröffnet. Der Fahrplan kommt in der nächsten Ausbaustufe.",
-    "kategorie": "Infrastruktur"
-  },
-  {
-    "text": "Die Bahn hat ein neues Pünktlichkeitsziel: Ankommen.",
-    "kategorie": "Infrastruktur"
-  },
-  {
-    "text": "Die Sanierung der Schule ist abgeschlossen – fast. Die Toiletten kommen im nächsten Haushalt.",
-    "kategorie": "Infrastruktur"
-  },
-  {
-    "text": "Die Baustelle bekam einen Preis für Nachhaltigkeit. Sie besteht seit zwölf Jahren.",
-    "kategorie": "Infrastruktur"
-  },
-  {
-    "text": "Der Kreisverkehr hat drei Ausfahrten in dieselbe Sackgasse.",
-    "kategorie": "Infrastruktur"
-  },
-  {
-    "text": "Die Wasserleitung wird erneuert. Die Straße darüber wurde letzte Woche frisch asphaltiert.",
-    "kategorie": "Infrastruktur"
-  },
-  {
-    "text": "Der Zug endet heute vorzeitig. Die Fahrgäste auch, zumindest ihre Geduld.",
-    "kategorie": "Infrastruktur"
-  },
-  {
-    "text": "Wegen Bauarbeiten fährt der Nahverkehr heute wie immer: gar nicht.",
-    "kategorie": "Infrastruktur"
-  },
-  {
-    "text": "Die Brücke wurde in Rekordzeit geplant. Gebaut wird sie in Rekordzeit plus 15 Jahre.",
-    "kategorie": "Infrastruktur"
-  },
-  {
-    "text": "Die Ladesäule ist da. Der Stromanschluss kommt mit der nächsten Förderperiode.",
-    "kategorie": "Infrastruktur"
-  },
-  {
-    "text": "Die Bahn entschuldigt sich für die Unannehmlichkeiten – automatisch, alle zwei Minuten.",
-    "kategorie": "Infrastruktur"
-  },
-  {
-    "text": "Die Behelfsbrücke ist inzwischen älter als die Brücke, die sie ersetzen sollte.",
-    "kategorie": "Infrastruktur"
-  },
-  {
-    "text": "Die Stadt hat ein Mobilitätskonzept. Es bewegt sich keinen Millimeter.",
-    "kategorie": "Infrastruktur"
-  },
-  {
-    "text": "Das Schwimmbad bleibt geschlossen – wegen Personalmangels und fehlenden Wassers.",
-    "kategorie": "Infrastruktur"
-  },
-  {
-    "text": "Die Baustellenampel regelt eine Straße, auf der seit Monaten nicht gebaut wird.",
-    "kategorie": "Infrastruktur"
-  },
-  {
-    "text": "Die Sanierung kostet das Dreifache. Begründung: Inflation, Material und Überraschung.",
-    "kategorie": "Infrastruktur"
-  },
-  {
-    "text": "Der Bahnübergang ist seit 20 Minuten geschlossen. Ein Zug ist noch nicht in Sicht. Vertrauen ja.",
-    "kategorie": "Infrastruktur"
-  },
-  {
-    "text": "Die neue Fahrradstraße ist fertig. Autos dürfen weiterhin darauf parken.",
-    "kategorie": "Infrastruktur"
-  },
-  {
-    "text": "Die Infrastruktur ist auf dem Stand der Zeit – nur leider der Zeit von 1985.",
-    "kategorie": "Infrastruktur"
-  },
-  {
-    "text": "Die Wärmepumpen-Förderung ist einfach: Antrag, Gutachten, Nachweis, Wartezeit, Absage, neuer Antrag.",
-    "kategorie": "Grüne Ideologie"
-  },
-  {
-    "text": "Das Lastenrad wird gefördert. Der Stellplatz dafür kostet extra und ist im fünften Stock.",
-    "kategorie": "Grüne Ideologie"
-  },
-  {
-    "text": "Die Stadt pflanzt einen Baum und lädt zur Pressekonferenz – mit 30 Dienstwagen.",
-    "kategorie": "Grüne Ideologie"
-  },
-  {
-    "text": "Der Bioladen hat eine Plastiktüten-Verbotszone. Die Bio-Gurke ist trotzdem eingeschweißt.",
-    "kategorie": "Grüne Ideologie"
-  },
-  {
-    "text": "Das neue Energielabel hat sieben Stufen von A bis G. Erreicht wird meistens: Antrag.",
-    "kategorie": "Grüne Ideologie"
-  },
-  {
-    "text": "Mülltrennung in fünf Tonnen. Am Ende kommt ein Wagen und kippt alles zusammen.",
-    "kategorie": "Grüne Ideologie"
-  },
-  {
-    "text": "Das Solardach ist genehmigt. Nur der Denkmalschutz möchte es nicht sehen.",
-    "kategorie": "Grüne Ideologie"
-  },
-  {
-    "text": "Das E-Auto lädt in 20 Minuten – sobald man die passende App, Karte und Säule gefunden hat.",
-    "kategorie": "Grüne Ideologie"
-  },
-  {
-    "text": "Die Gemeinde will klimaneutral werden und hat dafür ein Gremium mit Flugreisen gebildet.",
-    "kategorie": "Grüne Ideologie"
-  },
-  {
-    "text": "Die Pfandflasche hat mehr Kreisläufe hinter sich als der Koalitionsvertrag.",
-    "kategorie": "Grüne Ideologie"
-  },
-  {
-    "text": "Das Tempolimit wurde diskutiert. Die Diskussion fuhr mit 200 auf der linken Spur.",
-    "kategorie": "Grüne Ideologie"
-  },
-  {
-    "text": "Die Wärmepumpe läuft leise – leiser als die Debatte um sie.",
-    "kategorie": "Grüne Ideologie"
-  },
-  {
-    "text": "Die neue Nachhaltigkeitsbroschüre wurde in Hochglanz gedruckt, 50.000 Stück.",
-    "kategorie": "Grüne Ideologie"
-  },
-  {
-    "text": "Das Heizungsgesetz ist verständlich – für alle mit Jurastudium und Ingenieursdiplom.",
-    "kategorie": "Grüne Ideologie"
-  },
-  {
-    "text": "Die Stadt hat Parkplätze in Grünflächen umgewandelt. Jetzt parken alle auf der Grünfläche.",
-    "kategorie": "Grüne Ideologie"
-  },
-  {
-    "text": "Die Bürgerinitiative ist für Windkraft – nur nicht hier, nicht dort und nicht in Sichtweite.",
-    "kategorie": "Grüne Ideologie"
-  },
-  {
-    "text": "Das Regenwasser soll versickern. Die Kellerräume haben es verstanden.",
-    "kategorie": "Grüne Ideologie"
-  },
-  {
-    "text": "Die Kantine serviert regional. Die Avocado kommt aus der Region Mexiko.",
-    "kategorie": "Grüne Ideologie"
-  },
-  {
-    "text": "Der Bus ist elektrisch und emissionsfrei. Er steht im Depot, weil der Ladestrom fehlt.",
-    "kategorie": "Grüne Ideologie"
-  },
-  {
-    "text": "Das Insektenhotel ist fertig. Die Insekten warten noch auf die Baugenehmigung.",
-    "kategorie": "Grüne Ideologie"
-  },
-  {
-    "text": "Das Klimaticket ist günstig. Man kommt damit nur nirgendwo hin, wo Züge fahren.",
-    "kategorie": "Grüne Ideologie"
-  },
-  {
-    "text": "Der Elektroroller steht mitten auf dem Gehweg. Nachhaltig im Weg.",
-    "kategorie": "Grüne Ideologie"
-  },
-  {
-    "text": "Die Stadt verbietet Laubbläser und kauft elektrische Laubbläser.",
-    "kategorie": "Grüne Ideologie"
-  },
-  {
-    "text": "Der Bürgermeister fährt jetzt Rad. Der Dienstwagen fährt das Rad hinterher.",
-    "kategorie": "Grüne Ideologie"
-  },
-  {
-    "text": "Die Bio-Tonne wird nur noch alle vier Wochen geleert. Der Geruch ist dafür täglich frisch.",
-    "kategorie": "Grüne Ideologie"
-  },
-  {
-    "text": "Die Nachhaltigkeitsstrategie hat 200 Seiten – beidseitig bedruckt, immerhin.",
-    "kategorie": "Grüne Ideologie"
-  },
-  {
-    "text": "Für die Grünfläche wurde ein Pflegekonzept erarbeitet. Gemäht wird trotzdem nicht.",
-    "kategorie": "Grüne Ideologie"
-  },
-  {
-    "text": "Das Windrad dreht sich nicht – es wartet auf die Netzanbindung und auf Wind.",
-    "kategorie": "Grüne Ideologie"
-  },
-  {
-    "text": "Der Klimagipfel war ein voller Erfolg: 400 Privatjets, ein Gruppenfoto, eine Absichtserklärung.",
-    "kategorie": "Klimawandel (nicht existent)"
-  },
-  {
-    "text": "Hitzeschutzplan für Schulen beschlossen: Fenster auf, Daumen drücken.",
-    "kategorie": "Klimawandel (nicht existent)"
-  },
-  {
-    "text": "Die Kommune hat den Klimanotstand ausgerufen. Der nächste Tagesordnungspunkt: neues Parkhaus.",
-    "kategorie": "Klimawandel (nicht existent)"
-  },
-  {
-    "text": "Die Kompensation des Fluges ist gebucht. Der Baum dafür wird irgendwann irgendwo gepflanzt.",
-    "kategorie": "Klimawandel (nicht existent)"
-  },
-  {
-    "text": "Der Sommer war heiß. Die Klimaanlage im Amt wurde trotzdem erst im Oktober genehmigt.",
-    "kategorie": "Klimawandel (nicht existent)"
-  },
-  {
-    "text": "Der Hitzeaktionsplan sieht Trinkwasserbrunnen vor. Der Brunnen steht – ohne Wasseranschluss.",
-    "kategorie": "Klimawandel (nicht existent)"
-  },
-  {
-    "text": "Das Klimaschutzgesetz wurde verschärft und gleichzeitig mit Ausnahmen entschärft.",
-    "kategorie": "Klimawandel (nicht existent)"
-  },
-  {
-    "text": "Die Stadt hat einen Klimaschutzmanager eingestellt. Der Manager hat jetzt einen Klimaschutzmanager-Assistenten.",
-    "kategorie": "Klimawandel (nicht existent)"
-  },
-  {
-    "text": "Der Winter fällt aus. Die Streusalz-Ausschreibung läuft trotzdem.",
-    "kategorie": "Klimawandel (nicht existent)"
-  },
-  {
-    "text": "Die Klimastrategie wurde in Dubai, Rio und Bali erarbeitet. Präsentiert wird sie per Videocall.",
-    "kategorie": "Klimawandel (nicht existent)"
-  },
-  {
-    "text": "Das Klimageld kommt bestimmt. Wann, steht im Kleingedruckten der nächsten Legislaturperiode.",
-    "kategorie": "Klimawandel (nicht existent)"
-  },
-  {
-    "text": "Der Klimabeirat empfiehlt Maßnahmen. Die Regierung empfiehlt, die Empfehlungen zu prüfen.",
-    "kategorie": "Klimawandel (nicht existent)"
-  },
-  {
-    "text": "Das Ministerium misst seinen CO2-Fußabdruck – mit einem externen Gutachten, das eingeflogen wird.",
-    "kategorie": "Klimawandel (nicht existent)"
-  },
-  {
-    "text": "Hitzewarnung für morgen. Das Freibad bleibt geschlossen – wegen fehlender Rettungsschwimmer.",
-    "kategorie": "Klimawandel (nicht existent)"
-  },
-  {
-    "text": "Der Bürgermeister erklärt den Klimaschutz zur Chefsache. Der Chef ist bis September im Urlaub.",
-    "kategorie": "Klimawandel (nicht existent)"
-  },
-  {
-    "text": "Das Klimaziel wird erreicht – dank einer neuen Rechenmethode.",
-    "kategorie": "Klimawandel (nicht existent)"
-  },
-  {
-    "text": "Die Dürre ist da. Der Antrag auf Bewässerung der Stadtbäume liegt noch im Umweltausschuss.",
-    "kategorie": "Klimawandel (nicht existent)"
-  },
-  {
-    "text": "Das Hochwasser kam schneller als der Hochwasserschutz-Plan.",
-    "kategorie": "Klimawandel (nicht existent)"
-  },
-  {
-    "text": "Die Klimakonferenz endet mit einem Durchbruch: Man trifft sich nächstes Jahr wieder.",
-    "kategorie": "Klimawandel (nicht existent)"
-  },
-  {
-    "text": "Der Klimacheck für Gesetze verzögert alle Gesetze. Auch die für den Klimaschutz.",
-    "kategorie": "Klimawandel (nicht existent)"
-  },
-  {
-    "text": "Die Behörde ist klimaneutral: Sie verbraucht keine Energie, weil sie seit Freitag 12 Uhr zu hat.",
-    "kategorie": "Klimawandel (nicht existent)"
-  },
-  {
-    "text": "Im Rathaus wird die Heizung auf 19 Grad gesenkt. Im Ratssaal laufen drei Heizlüfter.",
-    "kategorie": "Klimawandel (nicht existent)"
-  },
-  {
-    "text": "Die Wetter-App sagt Hitze voraus. Die Stadt sagt: Wir beobachten die Lage.",
-    "kategorie": "Klimawandel (nicht existent)"
-  },
-  {
-    "text": "Das Klimaschutzprogramm wurde gefeiert – mit einem Feuerwerk.",
-    "kategorie": "Klimawandel (nicht existent)"
-  },
-  {
-    "text": "Die Hitzeschutz-Broschüre wird an alle Haushalte verteilt. Leider erst im Dezember.",
-    "kategorie": "Klimawandel (nicht existent)"
-  },
-  {
-    "text": "Die Gemeinde testet Klimaanpassung: Sie verlegt die Sitzung bei Hitze auf 7 Uhr morgens. Keiner kommt.",
-    "kategorie": "Klimawandel (nicht existent)"
-  },
-  {
-    "text": "Der Klima-Fonds ist gut gefüllt. Abgerufen wurde nichts – das Formular ist zu kompliziert.",
-    "kategorie": "Klimawandel (nicht existent)"
-  },
-  {
-    "text": "Die Expertenkommission ist sich einig: Es ist warm. Die Maßnahmen dazu folgen im nächsten Bericht.",
-    "kategorie": "Klimawandel (nicht existent)"
-  },
-  {
-    "text": "Digitaler Bauantrag möglich. Die Pläne bitte zusätzlich als USB-Stick und auf Mikrofilm einreichen.",
-    "kategorie": "Digitalisierung"
-  },
-  {
-    "text": "Die Zwei-Faktor-Authentifizierung im Amt: Passwort und ein Mitarbeiter, der noch weiß, wo der Server steht.",
-    "kategorie": "Digitalisierung"
-  },
-  {
-    "text": "Die Online-Terminbuchung ist ausgebucht bis 2029. Der Schalter hat noch freie Plätze – für 2031.",
-    "kategorie": "Digitalisierung"
-  },
-  {
-    "text": "Die digitale Signatur ist eingeführt. Gültig ist sie erst nach Beglaubigung beim Notar.",
-    "kategorie": "Digitalisierung"
-  },
-  {
-    "text": "Der Minister verspricht Transparenz. Die Unterlagen dazu sind geheim.",
-    "kategorie": "Regierung"
-  },
-  {
-    "text": "Die Reform kommt in drei Stufen: Ankündigung, Verschiebung, Vergessen.",
-    "kategorie": "Regierung"
-  },
-  {
-    "text": "Der Zug hat Verspätung wegen Personalmangels. Das Personal hat Verspätung wegen des Zuges.",
-    "kategorie": "Infrastruktur"
-  },
-  {
-    "text": "Die Brücke wird saniert. Die Umleitung führt über die nächste gesperrte Brücke.",
-    "kategorie": "Infrastruktur"
-  },
-  {
-    "text": "Die Autobahn ist dreispurig. Zwei Spuren sind Baustelle, die dritte auch.",
-    "kategorie": "Infrastruktur"
-  },
-  {
-    "text": "Die Umleitung ist ausgeschildert. Die Schilder stehen in der falschen Richtung.",
-    "kategorie": "Infrastruktur"
-  },
-  {
-    "text": "Die Stadt pflanzt 1000 Bäume. Gefällt wurden dieses Jahr 1200.",
-    "kategorie": "Grüne Ideologie"
-  },
-  {
-    "text": "Die Energiewende ist auf Kurs. Der Kurs wird gerade neu berechnet.",
-    "kategorie": "Grüne Ideologie"
-  },
-  {
-    "text": "Der Klimarat tagt bei 32 Grad im klimatisierten Raum. Thema: Hitzeaktionsplan.",
-    "kategorie": "Klimawandel (nicht existent)"
-  },
-  {
-    "text": "Der Pegel steigt. Die Zuständigkeit bleibt beim Nachbarlandkreis.",
-    "kategorie": "Klimawandel (nicht existent)"
-  },
-  {
     "text": "Das neue Digitalministerium hat seine Arbeit aufgenommen. Die Zuständigkeiten kommen noch per Hauspost aus den anderen Ministerien.",
     "kategorie": "Digitalisierung"
   },
   {
+    "text": "Das Verbrenner-Aus bleibt, fällt oder wird geprüft. Die Autohersteller haben sicherheitshalber alle drei Varianten im Prospekt.",
+    "kategorie": "Grüne Ideologie"
+  },
+  {
     "text": "Die elektronische Patientenakte ist für alle da. Der Arzt druckt sie aus, damit der Patient sie zum nächsten Arzt tragen kann.",
-    "kategorie": "Digitalisierung"
-  },
-  {
-    "text": "Das E-Rezept läuft reibungslos – solange die Karte gelesen wird, die Apotheke online ist und der Server Lust hat.",
-    "kategorie": "Digitalisierung"
-  },
-  {
-    "text": "Die EU-Brieftasche fürs Handy kommt bis Ende 2026. Den Einführungstermin gibt es vorab als PDF zum Ausdrucken.",
-    "kategorie": "Digitalisierung"
-  },
-  {
-    "text": "Der Deutschland-Stack soll alle Behördensysteme verbinden. Zuerst klären die Behörden, wer den Stecker halten darf.",
-    "kategorie": "Digitalisierung"
-  },
-  {
-    "text": "Die KI-Gigafactory ist geplant. Der Stromanschluss dafür wird ganz klassisch beantragt – Bearbeitungszeit sieben Jahre.",
-    "kategorie": "Digitalisierung"
-  },
-  {
-    "text": "Das Amt nutzt jetzt KI für Bescheide. Die KI hat schnell gelernt, dass man jeden Antrag erst einmal ablehnt.",
-    "kategorie": "Digitalisierung"
-  },
-  {
-    "text": "Die Grundsteuererklärung lief digital. Der Bescheid kam per Post, der Widerspruch muss per Fax.",
-    "kategorie": "Digitalisierung"
-  },
-  {
-    "text": "Das Onlinezugangsgesetz ist erfüllt: Jeder Antrag hat jetzt einen Link zu einem PDF zum Ausdrucken.",
-    "kategorie": "Digitalisierung"
-  },
-  {
-    "text": "Die BundID ist da. Zum Aktivieren braucht man nur den PIN-Brief, der seit drei Jahren im Altpapier liegt.",
     "kategorie": "Digitalisierung"
   },
   {
@@ -644,15 +16,23 @@
     "kategorie": "Regierung"
   },
   {
-    "text": "Die Stromsteuer wird gesenkt – für alle. Wer mit „alle“ gemeint ist, steht in der Fußnote: die Industrie.",
-    "kategorie": "Regierung"
+    "text": "Die KI-Gigafactory ist geplant. Der Stromanschluss dafür wird ganz klassisch beantragt – Bearbeitungszeit sieben Jahre.",
+    "kategorie": "Digitalisierung"
+  },
+  {
+    "text": "500 Milliarden für die Infrastruktur. Die erste Brücke wird bald geplant – sobald jemand die Planungsabteilung findet.",
+    "kategorie": "Infrastruktur"
+  },
+  {
+    "text": "Die Weltklimakonferenz am Regenwald ist vorbei. Für den Wald gab es eine Gedenkminute, für die Delegierten Rückflüge.",
+    "kategorie": "Klimawandel (nicht existent)"
+  },
+  {
+    "text": "Der Deutschland-Stack soll alle Behördensysteme verbinden. Zuerst klären die Behörden, wer den Stecker halten darf.",
+    "kategorie": "Digitalisierung"
   },
   {
     "text": "Das Sondervermögen ist da. Jetzt wird geprüft, welche Haushaltslöcher man damit möglichst unauffällig stopfen kann.",
-    "kategorie": "Regierung"
-  },
-  {
-    "text": "Die Regierung hat ein Entlastungspaket geschnürt. Die Schnur wird dem Bürger extra berechnet.",
     "kategorie": "Regierung"
   },
   {
@@ -660,83 +40,43 @@
     "kategorie": "Regierung"
   },
   {
-    "text": "Der Koalitionsausschuss tagte bis 3 Uhr nachts. Ergebnis: Man tagt nächste Woche wieder, aber früher.",
-    "kategorie": "Regierung"
+    "text": "Das E-Rezept läuft reibungslos – solange die Karte gelesen wird, die Apotheke online ist und der Server Lust hat.",
+    "kategorie": "Digitalisierung"
   },
   {
-    "text": "Die Rentenkommission soll Vorschläge machen. Bis sie fertig ist, sind ihre Mitglieder selbst in Rente.",
-    "kategorie": "Regierung"
+    "text": "Die EU hat ihr Klimaziel für 2040 beschlossen: 90 Prozent – ein Teil davon im Ausland eingekauft, wie Souvenirs.",
+    "kategorie": "Klimawandel (nicht existent)"
   },
   {
-    "text": "Das Bürgergeld heißt jetzt Grundsicherung. Die Formulare sind dieselben, nur das Logo ist neu.",
-    "kategorie": "Regierung"
+    "text": "Die Stadt hat einen Klimaschutzmanager eingestellt. Der Manager hat jetzt einen Klimaschutzmanager-Assistenten.",
+    "kategorie": "Klimawandel (nicht existent)"
   },
   {
-    "text": "Die Pendlerpauschale steigt. Der Zug, mit dem man pendeln könnte, fällt dafür aus.",
-    "kategorie": "Regierung"
+    "text": "Die EU-Brieftasche fürs Handy kommt bis Ende 2026. Den Einführungstermin gibt es vorab als PDF zum Ausdrucken.",
+    "kategorie": "Digitalisierung"
   },
   {
-    "text": "Die Regierung hat einen Politikwechsel versprochen. Gewechselt wurden bisher die Türschilder.",
-    "kategorie": "Regierung"
-  },
-  {
-    "text": "500 Milliarden für die Infrastruktur. Die erste Brücke wird bald geplant – sobald jemand die Planungsabteilung findet.",
-    "kategorie": "Infrastruktur"
+    "text": "Das Amt nutzt jetzt KI für Bescheide. Die KI hat schnell gelernt, dass man jeden Antrag erst einmal ablehnt.",
+    "kategorie": "Digitalisierung"
   },
   {
     "text": "Die Generalsanierung der Strecke ist abgeschlossen. Der erste Zug hatte trotzdem Verspätung – aus Tradition.",
     "kategorie": "Infrastruktur"
   },
   {
-    "text": "Das Deutschlandticket kostet jetzt 63 Euro. Die Verspätung ist weiterhin inklusive.",
-    "kategorie": "Infrastruktur"
+    "text": "Die Zwei-Faktor-Authentifizierung im Amt: Passwort und ein Mitarbeiter, der noch weiß, wo der Server steht.",
+    "kategorie": "Digitalisierung"
   },
   {
-    "text": "Die Brücke wurde nach dem Einsturz gründlich geprüft. Ergebnis: Sie war einsturzgefährdet.",
-    "kategorie": "Infrastruktur"
-  },
-  {
-    "text": "Die Bahn hat einen neuen Sanierungsplan. Der alte wurde nie fertig, aber der neue hat ein schöneres Logo.",
-    "kategorie": "Infrastruktur"
-  },
-  {
-    "text": "Die Autobahn GmbH führt eine Liste maroder Brücken. Die Liste ist das Einzige, was zügig wächst.",
-    "kategorie": "Infrastruktur"
-  },
-  {
-    "text": "Die Bahn ist zu 60 Prozent pünktlich. Gezählt werden allerdings nur Züge, die überhaupt fahren.",
-    "kategorie": "Infrastruktur"
+    "text": "Der Sommer brach alle Hitzerekorde. Die Behörde brach dafür die Arbeit am Hitzeschutzplan ab – Urlaubszeit.",
+    "kategorie": "Klimawandel (nicht existent)"
   },
   {
     "text": "Der Bahnhof bekommt ein digitales Stellwerk. Bis dahin stellt der Mann mit dem Hebel weiter alles auf Rot.",
     "kategorie": "Infrastruktur"
   },
   {
-    "text": "Das Schlagloch hat inzwischen eine eigene Facebook-Gruppe. Bald feiert es fünften Geburtstag.",
-    "kategorie": "Infrastruktur"
-  },
-  {
-    "text": "Die Schuldenbremse wurde gelockert. Gebremst wird trotzdem – es fehlen die Bauarbeiter.",
-    "kategorie": "Infrastruktur"
-  },
-  {
-    "text": "Die kommunale Wärmeplanung ist fristgerecht fertig. Sie empfiehlt, irgendwann irgendwie anders zu heizen.",
-    "kategorie": "Grüne Ideologie"
-  },
-  {
     "text": "Das Heizungsgesetz wird abgeschafft und durch ein Gesetz ersetzt, das genauso aussieht, aber anders heißt.",
-    "kategorie": "Grüne Ideologie"
-  },
-  {
-    "text": "Der CO2-Preis steigt. Das Klimageld, das ihn ausgleichen soll, steigt auch – auf der Wunschliste.",
-    "kategorie": "Grüne Ideologie"
-  },
-  {
-    "text": "Die E-Auto-Prämie ist zurück. Bis der Antrag bewilligt ist, wird sie schon wieder abgeschafft.",
-    "kategorie": "Grüne Ideologie"
-  },
-  {
-    "text": "Das Verbrenner-Aus bleibt, fällt oder wird geprüft. Die Autohersteller haben sicherheitshalber alle drei Varianten im Prospekt.",
     "kategorie": "Grüne Ideologie"
   },
   {
@@ -744,11 +84,667 @@
     "kategorie": "Grüne Ideologie"
   },
   {
-    "text": "Das Wasserstoffnetz ist fertig geplant. Der Wasserstoff dafür auch – nur geplant.",
+    "text": "Die BundID ist da. Zum Aktivieren braucht man nur den PIN-Brief, der seit drei Jahren im Altpapier liegt.",
+    "kategorie": "Digitalisierung"
+  },
+  {
+    "text": "Die Stromsteuer wird gesenkt – für alle. Wer mit „alle“ gemeint ist, steht in der Fußnote: die Industrie.",
+    "kategorie": "Regierung"
+  },
+  {
+    "text": "Die Bahn hat einen neuen Sanierungsplan. Der alte wurde nie fertig, aber der neue hat ein schöneres Logo.",
+    "kategorie": "Infrastruktur"
+  },
+  {
+    "text": "Die kommunale Wärmeplanung ist fristgerecht fertig. Sie empfiehlt, irgendwann irgendwie anders zu heizen.",
     "kategorie": "Grüne Ideologie"
   },
   {
     "text": "Die Batteriefabrik wurde gefeiert, gefördert und dann insolvent. Nachhaltig war nur die Pressemitteilung.",
+    "kategorie": "Grüne Ideologie"
+  },
+  {
+    "text": "Die Waldbrandgefahr ist hoch. Der Löschhubschrauber ist in der Wartung, der Ersatz in der Ausschreibung.",
+    "kategorie": "Klimawandel (nicht existent)"
+  },
+  {
+    "text": "Beim Bürgerportal muss man sich registrieren, um zu erfahren, dass man sich vor Ort registrieren muss.",
+    "kategorie": "Digitalisierung"
+  },
+  {
+    "text": "Die Gemeinde testet Klimaanpassung: Sie verlegt die Sitzung bei Hitze auf 7 Uhr morgens. Keiner kommt.",
+    "kategorie": "Klimawandel (nicht existent)"
+  },
+  {
+    "text": "Die Rentenkommission soll Vorschläge machen. Bis sie fertig ist, sind ihre Mitglieder selbst in Rente.",
+    "kategorie": "Regierung"
+  },
+  {
+    "text": "Die E-Akte wurde eingeführt. Damit sie nicht verloren geht, wird sie zusätzlich in Papier abgeheftet.",
+    "kategorie": "Digitalisierung"
+  },
+  {
+    "text": "Der Minister kündigte eine schnelle, unbürokratische Lösung an. Antragsformular folgt in drei Teilen.",
+    "kategorie": "Regierung"
+  },
+  {
+    "text": "Der Koalitionsausschuss tagte bis 3 Uhr nachts. Ergebnis: Man tagt nächste Woche wieder, aber früher.",
+    "kategorie": "Regierung"
+  },
+  {
+    "text": "Die Opposition kritisiert die Regierung. Die Regierung kritisiert die Kritik. Alle sind beschäftigt.",
+    "kategorie": "Regierung"
+  },
+  {
+    "text": "Die Wärmepumpen-Förderung ist einfach: Antrag, Gutachten, Nachweis, Wartezeit, Absage, neuer Antrag.",
+    "kategorie": "Grüne Ideologie"
+  },
+  {
+    "text": "Der Kanzler sagt, er sei nah bei den Menschen. Die Menschen haben ihn zuletzt im Fernsehen gesehen.",
+    "kategorie": "Regierung"
+  },
+  {
+    "text": "Der Minister ist zurückgetreten und hat einen Beraterposten angetreten. Beraten wird die Regierung.",
+    "kategorie": "Regierung"
+  },
+  {
+    "text": "Digitaler Bauantrag möglich. Die Pläne bitte zusätzlich als USB-Stick und auf Mikrofilm einreichen.",
+    "kategorie": "Digitalisierung"
+  },
+  {
+    "text": "Das Onlinezugangsgesetz ist erfüllt: Jeder Antrag hat jetzt einen Link zu einem PDF zum Ausdrucken.",
+    "kategorie": "Digitalisierung"
+  },
+  {
+    "text": "Die Digitalisierung der Verwaltung läuft planmäßig: Das Fax hat jetzt ein Deckblatt im PDF-Format.",
+    "kategorie": "Digitalisierung"
+  },
+  {
+    "text": "Der Breitbandausbau ist auf der Zielgeraden. Die Zielgerade ist 40 Kilometer lang und unbefestigt.",
+    "kategorie": "Digitalisierung"
+  },
+  {
+    "text": "Die Gasspeicherumlage fällt weg. Dafür kommt eine neue Umlage, für die noch ein Name gesucht wird.",
+    "kategorie": "Grüne Ideologie"
+  },
+  {
+    "text": "Die Stadt hat einen Hitzeschutzbeauftragten. Sein Büro unterm Dach hat 38 Grad und keine Jalousie.",
+    "kategorie": "Klimawandel (nicht existent)"
+  },
+  {
+    "text": "Laut Starkregen-Gefahrenkarte liegt das Rathaus im Risikogebiet. Die Karte liegt im Rathauskeller.",
+    "kategorie": "Klimawandel (nicht existent)"
+  },
+  {
+    "text": "Digitaler Personalausweis beantragt. Abholung bitte persönlich, mit dem alten Ausweis und Geduld.",
+    "kategorie": "Digitalisierung"
+  },
+  {
+    "text": "Das Ministerium misst seinen CO2-Fußabdruck – mit einem externen Gutachten, das eingeflogen wird.",
+    "kategorie": "Klimawandel (nicht existent)"
+  },
+  {
+    "text": "Der CO2-Preis steigt. Das Klimageld, das ihn ausgleichen soll, steigt auch – auf der Wunschliste.",
+    "kategorie": "Grüne Ideologie"
+  },
+  {
+    "text": "Der Bahnübergang ist seit 20 Minuten geschlossen. Ein Zug ist noch nicht in Sicht. Vertrauen ja.",
+    "kategorie": "Infrastruktur"
+  },
+  {
+    "text": "Die Behörde ist klimaneutral: Sie verbraucht keine Energie, weil sie seit Freitag 12 Uhr zu hat.",
+    "kategorie": "Klimawandel (nicht existent)"
+  },
+  {
+    "text": "Die Online-Terminbuchung ist ausgebucht bis 2029. Der Schalter hat noch freie Plätze – für 2031.",
+    "kategorie": "Digitalisierung"
+  },
+  {
+    "text": "Die Autobahn GmbH führt eine Liste maroder Brücken. Die Liste ist das Einzige, was zügig wächst.",
+    "kategorie": "Infrastruktur"
+  },
+  {
+    "text": "Das Passwort muss 16 Zeichen, ein Sonderzeichen und eine Sachbearbeiter-Unterschrift enthalten.",
+    "kategorie": "Digitalisierung"
+  },
+  {
+    "text": "Die Behörde hat jetzt Instagram. Der letzte Post: Wir haben wegen Systemumstellung geschlossen.",
+    "kategorie": "Digitalisierung"
+  },
+  {
+    "text": "Der Zug hat 45 Minuten Verspätung. Die Bahn spricht von einer leichten Abweichung vom Fahrplan.",
+    "kategorie": "Infrastruktur"
+  },
+  {
+    "text": "Der Klimagipfel war ein voller Erfolg: 400 Privatjets, ein Gruppenfoto, eine Absichtserklärung.",
+    "kategorie": "Klimawandel (nicht existent)"
+  },
+  {
+    "text": "Die Klimastrategie wurde in Dubai, Rio und Bali erarbeitet. Präsentiert wird sie per Videocall.",
+    "kategorie": "Klimawandel (nicht existent)"
+  },
+  {
+    "text": "Die Grundsteuererklärung lief digital. Der Bescheid kam per Post, der Widerspruch muss per Fax.",
+    "kategorie": "Digitalisierung"
+  },
+  {
+    "text": "Die Bahn ist zu 60 Prozent pünktlich. Gezählt werden allerdings nur Züge, die überhaupt fahren.",
+    "kategorie": "Infrastruktur"
+  },
+  {
+    "text": "Das Bürgergeld heißt jetzt Grundsicherung. Die Formulare sind dieselben, nur das Logo ist neu.",
+    "kategorie": "Regierung"
+  },
+  {
+    "text": "Die E-Auto-Prämie ist zurück. Bis der Antrag bewilligt ist, wird sie schon wieder abgeschafft.",
+    "kategorie": "Grüne Ideologie"
+  },
+  {
+    "text": "Das Rathaus-WLAN heißt 'Gast'. Das Passwort steht auf einem Zettel im verschlossenen Schrank.",
+    "kategorie": "Digitalisierung"
+  },
+  {
+    "text": "Ersatzverkehr mit Bussen eingerichtet. Der Bus fährt ab dem Bahnhof, der gerade gesperrt ist.",
+    "kategorie": "Infrastruktur"
+  },
+  {
+    "text": "Die Sanierung der Schule ist abgeschlossen – fast. Die Toiletten kommen im nächsten Haushalt.",
+    "kategorie": "Infrastruktur"
+  },
+  {
+    "text": "Die Kommune hat den Klimanotstand ausgerufen. Der nächste Tagesordnungspunkt: neues Parkhaus.",
+    "kategorie": "Klimawandel (nicht existent)"
+  },
+  {
+    "text": "Die Regierung hat ein Entlastungspaket geschnürt. Die Schnur wird dem Bürger extra berechnet.",
+    "kategorie": "Regierung"
+  },
+  {
+    "text": "Die Regierung hat einen Politikwechsel versprochen. Gewechselt wurden bisher die Türschilder.",
+    "kategorie": "Regierung"
+  },
+  {
+    "text": "Das Schlagloch hat inzwischen eine eigene Facebook-Gruppe. Bald feiert es fünften Geburtstag.",
+    "kategorie": "Infrastruktur"
+  },
+  {
+    "text": "Der neue Trinkwasserbrunnen ist da. Wegen Hygienebedenken bleibt er bis September abgestellt.",
+    "kategorie": "Klimawandel (nicht existent)"
+  },
+  {
+    "text": "Das Klimaanpassungsgesetz verpflichtet die Kommunen zu Konzepten. Umsetzen müssen sie nichts.",
+    "kategorie": "Klimawandel (nicht existent)"
+  },
+  {
+    "text": "Die Bürgerinitiative ist für Windkraft – nur nicht hier, nicht dort und nicht in Sichtweite.",
+    "kategorie": "Grüne Ideologie"
+  },
+  {
+    "text": "Der Hitzeaktionsplan sieht Trinkwasserbrunnen vor. Der Brunnen steht – ohne Wasseranschluss.",
+    "kategorie": "Klimawandel (nicht existent)"
+  },
+  {
+    "text": "Das Klimageld kommt bestimmt. Wann, steht im Kleingedruckten der nächsten Legislaturperiode.",
+    "kategorie": "Klimawandel (nicht existent)"
+  },
+  {
+    "text": "Hitzewarnung für morgen. Das Freibad bleibt geschlossen – wegen fehlender Rettungsschwimmer.",
+    "kategorie": "Klimawandel (nicht existent)"
+  },
+  {
+    "text": "Der Klimaschutzbericht ist erschienen: Ziele verfehlt, aber voll im Rahmen der Erwartungen.",
+    "kategorie": "Klimawandel (nicht existent)"
+  },
+  {
+    "text": "Die neue Behörden-App hat 4,9 Sterne. Alle von Mitarbeitern, die sie installieren mussten.",
+    "kategorie": "Digitalisierung"
+  },
+  {
+    "text": "Die Pressekonferenz wurde verschoben, weil man sich nicht auf das Mikrofon einigen konnte.",
+    "kategorie": "Regierung"
+  },
+  {
+    "text": "Im Bundestag wurde lebhaft debattiert. Anwesend waren 23 Abgeordnete und eine Schulklasse.",
+    "kategorie": "Regierung"
+  },
+  {
+    "text": "Die Wasserleitung wird erneuert. Die Straße darüber wurde letzte Woche frisch asphaltiert.",
+    "kategorie": "Infrastruktur"
+  },
+  {
+    "text": "Das E-Auto lädt in 20 Minuten – sobald man die passende App, Karte und Säule gefunden hat.",
+    "kategorie": "Grüne Ideologie"
+  },
+  {
+    "text": "Die Stadt hat Parkplätze in Grünflächen umgewandelt. Jetzt parken alle auf der Grünfläche.",
+    "kategorie": "Grüne Ideologie"
+  },
+  {
+    "text": "Die Bio-Tonne wird nur noch alle vier Wochen geleert. Der Geruch ist dafür täglich frisch.",
+    "kategorie": "Grüne Ideologie"
+  },
+  {
+    "text": "Der Klima-Fonds ist gut gefüllt. Abgerufen wurde nichts – das Formular ist zu kompliziert.",
+    "kategorie": "Klimawandel (nicht existent)"
+  },
+  {
+    "text": "Der Zug hat Verspätung wegen Personalmangels. Das Personal hat Verspätung wegen des Zuges.",
+    "kategorie": "Infrastruktur"
+  },
+  {
+    "text": "Die Brücke wurde nach dem Einsturz gründlich geprüft. Ergebnis: Sie war einsturzgefährdet.",
+    "kategorie": "Infrastruktur"
+  },
+  {
+    "text": "Der Datenschutz verbietet es dem Amt, die Daten zu nutzen, die es selbst angefordert hat.",
+    "kategorie": "Digitalisierung"
+  },
+  {
+    "text": "Die Behörden-Webseite ist barrierefrei. Barrierefrei unbenutzbar, für alle gleichermaßen.",
+    "kategorie": "Digitalisierung"
+  },
+  {
+    "text": "Das Lastenrad wird gefördert. Der Stellplatz dafür kostet extra und ist im fünften Stock.",
+    "kategorie": "Grüne Ideologie"
+  },
+  {
+    "text": "Der Klimabeirat empfiehlt Maßnahmen. Die Regierung empfiehlt, die Empfehlungen zu prüfen.",
+    "kategorie": "Klimawandel (nicht existent)"
+  },
+  {
+    "text": "Das Online-Formular ist fertig. Zum Absenden bitte ausdrucken, unterschreiben und faxen.",
+    "kategorie": "Digitalisierung"
+  },
+  {
+    "text": "Die App zur Terminbuchung ist da. Termine zur Einweisung in die App gibt es am Schalter.",
+    "kategorie": "Digitalisierung"
+  },
+  {
+    "text": "Die Brücke ist gesperrt, weil sie geprüft wird. Geprüft wird sie, weil sie gesperrt ist.",
+    "kategorie": "Infrastruktur"
+  },
+  {
+    "text": "Die Gemeinde will klimaneutral werden und hat dafür ein Gremium mit Flugreisen gebildet.",
+    "kategorie": "Grüne Ideologie"
+  },
+  {
+    "text": "Die Bahn entschuldigt sich für die Unannehmlichkeiten – automatisch, alle zwei Minuten.",
+    "kategorie": "Infrastruktur"
+  },
+  {
+    "text": "Die digitale Signatur ist eingeführt. Gültig ist sie erst nach Beglaubigung beim Notar.",
+    "kategorie": "Digitalisierung"
+  },
+  {
+    "text": "Die Schuldenbremse wurde gelockert. Gebremst wird trotzdem – es fehlen die Bauarbeiter.",
+    "kategorie": "Infrastruktur"
+  },
+  {
+    "text": "Der Smart Meter ist Pflicht. Der Messstellenbetreiber kommt nächstes Jahr – vielleicht.",
+    "kategorie": "Grüne Ideologie"
+  },
+  {
+    "text": "Der Bus ist elektrisch und emissionsfrei. Er steht im Depot, weil der Ladestrom fehlt.",
+    "kategorie": "Grüne Ideologie"
+  },
+  {
+    "text": "Die neue Software ersetzt drei Programme. Jetzt braucht man vier, um sie zu bedienen.",
+    "kategorie": "Digitalisierung"
+  },
+  {
+    "text": "Die Regierung hat das Problem erkannt und einen Beauftragten für das Problem ernannt.",
+    "kategorie": "Regierung"
+  },
+  {
+    "text": "Die Sanierung kostet das Dreifache. Begründung: Inflation, Material und Überraschung.",
+    "kategorie": "Infrastruktur"
+  },
+  {
+    "text": "Das Faxgerät im Ministerium hat einen Bestandsschutz-Antrag gestellt – und gewonnen.",
+    "kategorie": "Digitalisierung"
+  },
+  {
+    "text": "Die Verordnung wurde zurückgezogen, überarbeitet und unverändert wieder eingebracht.",
+    "kategorie": "Regierung"
+  },
+  {
+    "text": "Die Brücke wurde in Rekordzeit geplant. Gebaut wird sie in Rekordzeit plus 15 Jahre.",
+    "kategorie": "Infrastruktur"
+  },
+  {
+    "text": "Das neue Energielabel hat sieben Stufen von A bis G. Erreicht wird meistens: Antrag.",
+    "kategorie": "Grüne Ideologie"
+  },
+  {
+    "text": "Das Heizungsgesetz ist verständlich – für alle mit Jurastudium und Ingenieursdiplom.",
+    "kategorie": "Grüne Ideologie"
+  },
+  {
+    "text": "Die Klimakonferenz endet mit einem Durchbruch: Man trifft sich nächstes Jahr wieder.",
+    "kategorie": "Klimawandel (nicht existent)"
+  },
+  {
+    "text": "Im Rathaus wird die Heizung auf 19 Grad gesenkt. Im Ratssaal laufen drei Heizlüfter.",
+    "kategorie": "Klimawandel (nicht existent)"
+  },
+  {
+    "text": "Die neue S-Bahn-Linie ist eröffnet. Der Fahrplan kommt in der nächsten Ausbaustufe.",
+    "kategorie": "Infrastruktur"
+  },
+  {
+    "text": "Das Deutschlandticket kostet jetzt 63 Euro. Die Verspätung ist weiterhin inklusive.",
+    "kategorie": "Infrastruktur"
+  },
+  {
+    "text": "Die Schule hat kein Hitzefrei mehr. Dafür gibt es jetzt einen Ventilator pro Etage.",
+    "kategorie": "Klimawandel (nicht existent)"
+  },
+  {
+    "text": "Die Pendlerpauschale steigt. Der Zug, mit dem man pendeln könnte, fällt dafür aus.",
+    "kategorie": "Regierung"
+  },
+  {
+    "text": "Das Gesetz zur Beschleunigung von Verfahren steckt seit vier Jahren im Verfahren.",
+    "kategorie": "Regierung"
+  },
+  {
+    "text": "Das Klimaschutzgesetz wurde verschärft und gleichzeitig mit Ausnahmen entschärft.",
+    "kategorie": "Klimawandel (nicht existent)"
+  },
+  {
+    "text": "Das Wasserstoffnetz ist fertig geplant. Der Wasserstoff dafür auch – nur geplant.",
+    "kategorie": "Grüne Ideologie"
+  },
+  {
+    "text": "Die KI im Amt beantwortet jede Frage mit: Bitte reichen Sie das schriftlich ein.",
+    "kategorie": "Digitalisierung"
+  },
+  {
+    "text": "Die Regierung reagiert entschlossen: mit einer Prüfung, ob man reagieren sollte.",
+    "kategorie": "Regierung"
+  },
+  {
+    "text": "Der Klimacheck für Gesetze verzögert alle Gesetze. Auch die für den Klimaschutz.",
+    "kategorie": "Klimawandel (nicht existent)"
+  },
+  {
+    "text": "Videosprechstunde beim Amt: Bild eingefroren, Ton weg, Bescheid kommt per Post.",
+    "kategorie": "Digitalisierung"
+  },
+  {
+    "text": "Die Behelfsbrücke ist inzwischen älter als die Brücke, die sie ersetzen sollte.",
+    "kategorie": "Infrastruktur"
+  },
+  {
+    "text": "Das Klimaticket ist günstig. Man kommt damit nur nirgendwo hin, wo Züge fahren.",
+    "kategorie": "Grüne Ideologie"
+  },
+  {
+    "text": "Die Brücke wird saniert. Die Umleitung führt über die nächste gesperrte Brücke.",
+    "kategorie": "Infrastruktur"
+  },
+  {
+    "text": "Die Umleitung ist ausgeschildert. Die Schilder stehen in der falschen Richtung.",
+    "kategorie": "Infrastruktur"
+  },
+  {
+    "text": "Der Glasfaseranschluss kommt 2031. Die Baustelle davor ist schon seit 2024 da.",
+    "kategorie": "Digitalisierung"
+  },
+  {
+    "text": "Der Gesetzentwurf wurde geleakt, bevor ihn die Minister selbst gelesen hatten.",
+    "kategorie": "Regierung"
+  },
+  {
+    "text": "Die Ladesäule ist da. Der Stromanschluss kommt mit der nächsten Förderperiode.",
+    "kategorie": "Infrastruktur"
+  },
+  {
+    "text": "Das Insektenhotel ist fertig. Die Insekten warten noch auf die Baugenehmigung.",
+    "kategorie": "Grüne Ideologie"
+  },
+  {
+    "text": "Der Klimarat tagt bei 32 Grad im klimatisierten Raum. Thema: Hitzeaktionsplan.",
+    "kategorie": "Klimawandel (nicht existent)"
+  },
+  {
+    "text": "Die Schul-Cloud ist sicher. So sicher, dass auch die Lehrer nicht reinkommen.",
+    "kategorie": "Digitalisierung"
+  },
+  {
+    "text": "Mein Router hat mehr Uptime als die Digitalpolitik der letzten zwanzig Jahre.",
+    "kategorie": "Digitalisierung"
+  },
+  {
+    "text": "Das Ministerium plant einen Neustart. Der alte Start wurde nie abgeschlossen.",
+    "kategorie": "Regierung"
+  },
+  {
+    "text": "Die Infrastruktur ist auf dem Stand der Zeit – nur leider der Zeit von 1985.",
+    "kategorie": "Infrastruktur"
+  },
+  {
+    "text": "Die Nachhaltigkeitsstrategie hat 200 Seiten – beidseitig bedruckt, immerhin.",
+    "kategorie": "Grüne Ideologie"
+  },
+  {
+    "text": "Das Windrad dreht sich nicht – es wartet auf die Netzanbindung und auf Wind.",
+    "kategorie": "Grüne Ideologie"
+  },
+  {
+    "text": "Die neue Bürger-Hotline ist rund um die Uhr erreichbar – per Warteschleife.",
+    "kategorie": "Digitalisierung"
+  },
+  {
+    "text": "Der Bürgermeister fährt jetzt Rad. Der Dienstwagen fährt das Rad hinterher.",
+    "kategorie": "Grüne Ideologie"
+  },
+  {
+    "text": "Die Maßnahme wirkt, sagt das Ministerium. Messen kann man es leider nicht.",
+    "kategorie": "Regierung"
+  },
+  {
+    "text": "Die Wetter-App sagt Hitze voraus. Die Stadt sagt: Wir beobachten die Lage.",
+    "kategorie": "Klimawandel (nicht existent)"
+  },
+  {
+    "text": "Das Update wurde verschoben, weil das Update-Programm ein Update braucht.",
+    "kategorie": "Digitalisierung"
+  },
+  {
+    "text": "Die Digitalstrategie umfasst 312 Seiten. Digital verfügbar ist sie nicht.",
+    "kategorie": "Digitalisierung"
+  },
+  {
+    "text": "Der Zug endet heute vorzeitig. Die Fahrgäste auch, zumindest ihre Geduld.",
+    "kategorie": "Infrastruktur"
+  },
+  {
+    "text": "Das Solardach ist genehmigt. Nur der Denkmalschutz möchte es nicht sehen.",
+    "kategorie": "Grüne Ideologie"
+  },
+  {
+    "text": "Die Autobahn ist dreispurig. Zwei Spuren sind Baustelle, die dritte auch.",
+    "kategorie": "Infrastruktur"
+  },
+  {
+    "text": "Die neue Fahrradstraße ist fertig. Autos dürfen weiterhin darauf parken.",
+    "kategorie": "Infrastruktur"
+  },
+  {
+    "text": "Die Rentenreform ist sicher. Wie sicher, erfahren Sie mit 67 – oder 70.",
+    "kategorie": "Regierung"
+  },
+  {
+    "text": "Die Stadt hat ein Mobilitätskonzept. Es bewegt sich keinen Millimeter.",
+    "kategorie": "Infrastruktur"
+  },
+  {
+    "text": "Die Reform kommt in drei Stufen: Ankündigung, Verschiebung, Vergessen.",
+    "kategorie": "Regierung"
+  },
+  {
+    "text": "Das Regenwasser soll versickern. Die Kellerräume haben es verstanden.",
+    "kategorie": "Grüne Ideologie"
+  },
+  {
+    "text": "Der Minister verspricht Transparenz. Die Unterlagen dazu sind geheim.",
+    "kategorie": "Regierung"
+  },
+  {
+    "text": "Die neue Förderung ist großzügig. Der Antrag dafür auch – 47 Seiten.",
+    "kategorie": "Regierung"
+  },
+  {
+    "text": "Ein neues Gesetz soll Gesetze vereinfachen. Es hat 180 Paragrafen.",
+    "kategorie": "Regierung"
+  },
+  {
+    "text": "Die KI-Taskforce warnt: Deutschland hat noch anderthalb Jahre. Die Behörden brauchen für die Umsetzung mindestens drei.",
+    "kategorie": "Digitalisierung"
+  },
+  {
+    "text": "Der Deutschland-Stack soll alle Systeme verbinden. Zuerst müssen die Ministerien klären, wer den Stecker darf.",
+    "kategorie": "Digitalisierung"
+  },
+  {
+    "text": "Die elektronische Patientenakte ist da. Der Arzt druckt sie aus, damit man sie zum nächsten Arzt tragen kann.",
+    "kategorie": "Digitalisierung"
+  },
+  {
+    "text": "Das E-Rezept funktioniert – solange Karte, Apotheke und Server gleichzeitig Lust haben.",
+    "kategorie": "Digitalisierung"
+  },
+  {
+    "text": "Die BundID ist aktiviert. Der PIN-Brief lag drei Jahre im Altpapier. Jetzt ist er weg.",
+    "kategorie": "Digitalisierung"
+  },
+  {
+    "text": "Online-Wohnsitzanmeldung ist möglich. Der Meldebehörde fehlt nur noch das Internet.",
+    "kategorie": "Digitalisierung"
+  },
+  {
+    "text": "Die Staatsmodernisierung macht Fortschritte: Fünf von 23 Projekten sind fertig. Die anderen 18 auch – irgendwann.",
+    "kategorie": "Digitalisierung"
+  },
+  {
+    "text": "Die KI im Amt lernt schnell: Jeder Antrag wird erstmal abgelehnt. Das spart Zeit.",
+    "kategorie": "Digitalisierung"
+  },
+  {
+    "text": "Das Digitalministerium hat eine neue Strategie. Digital lesbar ist sie nicht.",
+    "kategorie": "Digitalisierung"
+  },
+  {
+    "text": "Die EU-Wallet kommt bis Ende 2026. Den Termin gibt es vorab als PDF zum Ausdrucken.",
+    "kategorie": "Digitalisierung"
+  },
+  {
+    "text": "In Berlin verhandeln Linke, Grüne und SPD. Ziel: Koalitionsvertrag im Januar. Umsetzung: irgendwann.",
+    "kategorie": "Regierung"
+  },
+  {
+    "text": "Merz nennt die Berliner Vergesellschaftungspläne „Unsinn“. In Berlin nennt man das „ambitioniert“.",
+    "kategorie": "Regierung"
+  },
+  {
+    "text": "Die Berliner Koalitionsverhandlungen laufen. Selfies aus dem Verhandlungsraum sind verboten. Durchstechereien auch – theoretisch.",
+    "kategorie": "Regierung"
+  },
+  {
+    "text": "Rot-Rot-Grün in Berlin will große Wohnungskonzerne vergesellschaften. Die Entschädigung hat eine Obergrenze – und einen Finanzierungsvorbehalt.",
+    "kategorie": "Regierung"
+  },
+  {
+    "text": "Die Sondierungen sind vorbei, die Verhandlungen laufen. Die Mitgliederabstimmung kommt im Januar. Die Regierung dann im Februar. Vielleicht.",
+    "kategorie": "Regierung"
+  },
+  {
+    "text": "Die Regierung modernisiert den Staat. Für jede gestrichene Vorschrift gibt es ein Formular zur Dokumentation.",
+    "kategorie": "Regierung"
+  },
+  {
+    "text": "Das Sondervermögen ist da. Jetzt wird geprüft, welche Löcher man damit unauffällig stopfen kann.",
+    "kategorie": "Regierung"
+  },
+  {
+    "text": "Die Rentenkommission arbeitet. Bis sie fertig ist, sind die Mitglieder selbst in Rente.",
+    "kategorie": "Regierung"
+  },
+  {
+    "text": "Der Herbst der Reformen hat begonnen. Die Reformen selbst sind für den Winter geplant – oder die nächste Wahl.",
+    "kategorie": "Regierung"
+  },
+  {
+    "text": "Die Regierung hat einen Politikwechsel versprochen. Gewechselt wurden bisher die Türschilder.",
+    "kategorie": "Regierung"
+  },
+  {
+    "text": "500 Milliarden für die Infrastruktur. Die erste Brücke wird geplant, sobald jemand die Planungsabteilung findet.",
+    "kategorie": "Infrastruktur"
+  },
+  {
+    "text": "Die Generalsanierung der Strecke ist fertig. Der erste Zug hatte trotzdem Verspätung – aus Tradition.",
+    "kategorie": "Infrastruktur"
+  },
+  {
+    "text": "Das Deutschlandticket kostet 63 Euro. Die Verspätung bleibt inklusive.",
+    "kategorie": "Infrastruktur"
+  },
+  {
+    "text": "Die Autobahn GmbH führt eine Liste maroder Brücken. Die Liste wächst schneller als die Brücken saniert werden.",
+    "kategorie": "Infrastruktur"
+  },
+  {
+    "text": "Die Bahn ist zu 60 Prozent pünktlich. Gezählt werden nur Züge, die überhaupt fahren.",
+    "kategorie": "Infrastruktur"
+  },
+  {
+    "text": "Der Bahnhof bekommt ein digitales Stellwerk. Bis dahin stellt der Mann mit dem Hebel weiter auf Rot.",
+    "kategorie": "Infrastruktur"
+  },
+  {
+    "text": "Das Schlagloch hat eine eigene Facebook-Gruppe. Bald feiert es fünften Geburtstag.",
+    "kategorie": "Infrastruktur"
+  },
+  {
+    "text": "Die Schuldenbremse wurde gelockert. Gebremst wird trotzdem – es fehlen die Bauarbeiter.",
+    "kategorie": "Infrastruktur"
+  },
+  {
+    "text": "Die Brücke wurde nach dem Einsturz geprüft. Ergebnis: Sie war einsturzgefährdet. Überraschung.",
+    "kategorie": "Infrastruktur"
+  },
+  {
+    "text": "Die Bahn hat einen neuen Sanierungsplan. Der alte wurde nie fertig, der neue hat ein schöneres Logo.",
+    "kategorie": "Infrastruktur"
+  },
+  {
+    "text": "Die kommunale Wärmeplanung ist fertig. Sie empfiehlt, irgendwann irgendwie anders zu heizen.",
+    "kategorie": "Grüne Ideologie"
+  },
+  {
+    "text": "Das Heizungsgesetz wird abgeschafft und durch ein Gesetz ersetzt, das genauso aussieht.",
+    "kategorie": "Grüne Ideologie"
+  },
+  {
+    "text": "Der CO2-Preis steigt. Das Klimageld, das ihn ausgleichen soll, steht auf der Wunschliste.",
+    "kategorie": "Grüne Ideologie"
+  },
+  {
+    "text": "Die E-Auto-Prämie ist zurück. Bis der Antrag bewilligt ist, wird sie schon wieder abgeschafft.",
+    "kategorie": "Grüne Ideologie"
+  },
+  {
+    "text": "Die Solaranlage speist mittags nicht mehr ein – zu viel Sonne. Willkommen in der Energiewende.",
+    "kategorie": "Grüne Ideologie"
+  },
+  {
+    "text": "Das Wasserstoffnetz ist geplant. Der Wasserstoff auch – nur geplant.",
+    "kategorie": "Grüne Ideologie"
+  },
+  {
+    "text": "Die Batteriefabrik wurde gefeiert, gefördert und insolvent. Nachhaltig war die Pressemitteilung.",
     "kategorie": "Grüne Ideologie"
   },
   {
@@ -760,19 +756,19 @@
     "kategorie": "Grüne Ideologie"
   },
   {
+    "text": "Das Verbrenner-Aus bleibt, fällt oder wird geprüft. Die Hersteller haben alle drei Varianten im Prospekt.",
+    "kategorie": "Grüne Ideologie"
+  },
+  {
     "text": "Die Weltklimakonferenz am Regenwald ist vorbei. Für den Wald gab es eine Gedenkminute, für die Delegierten Rückflüge.",
     "kategorie": "Klimawandel (nicht existent)"
   },
   {
-    "text": "Die EU hat ihr Klimaziel für 2040 beschlossen: 90 Prozent – ein Teil davon im Ausland eingekauft, wie Souvenirs.",
+    "text": "Die EU hat ihr Klimaziel für 2040 beschlossen: 90 Prozent – ein Teil davon im Ausland eingekauft.",
     "kategorie": "Klimawandel (nicht existent)"
   },
   {
     "text": "Die Stadt hat einen Hitzeschutzbeauftragten. Sein Büro unterm Dach hat 38 Grad und keine Jalousie.",
-    "kategorie": "Klimawandel (nicht existent)"
-  },
-  {
-    "text": "Die Schule hat kein Hitzefrei mehr. Dafür gibt es jetzt einen Ventilator pro Etage.",
     "kategorie": "Klimawandel (nicht existent)"
   },
   {
@@ -784,15 +780,15 @@
     "kategorie": "Klimawandel (nicht existent)"
   },
   {
-    "text": "Das Klimaanpassungsgesetz verpflichtet die Kommunen zu Konzepten. Umsetzen müssen sie nichts.",
+    "text": "Das Klimaanpassungsgesetz verpflichtet Kommunen zu Konzepten. Umsetzen müssen sie nichts.",
     "kategorie": "Klimawandel (nicht existent)"
   },
   {
-    "text": "Der Sommer brach alle Hitzerekorde. Die Behörde brach dafür die Arbeit am Hitzeschutzplan ab – Urlaubszeit.",
+    "text": "Der Sommer brach Hitzerekorde. Die Behörde brach die Arbeit am Hitzeschutzplan ab – Urlaubszeit.",
     "kategorie": "Klimawandel (nicht existent)"
   },
   {
-    "text": "Der Klimaschutzbericht ist erschienen: Ziele verfehlt, aber voll im Rahmen der Erwartungen.",
+    "text": "Der Klimaschutzbericht ist da: Ziele verfehlt, aber voll im Rahmen der Erwartungen.",
     "kategorie": "Klimawandel (nicht existent)"
   },
   {
@@ -800,51 +796,7 @@
     "kategorie": "Klimawandel (nicht existent)"
   },
   {
-    "text": "Berlin hat gewählt. Damit diesmal nichts schiefgeht, wird vorsorglich schon mal die Wiederholungswahl geplant.",
-    "kategorie": "Regierung"
-  },
-  {
-    "text": "Die Stimmzettel wurden diesmal pünktlich geliefert. Berlin feiert das als Verwaltungserfolg des Jahrzehnts.",
-    "kategorie": "Regierung"
-  },
-  {
-    "text": "Die Sondierungen in Berlin laufen gut. Man hat sich bereits auf einen Raum geeinigt – im zweiten Anlauf.",
-    "kategorie": "Regierung"
-  },
-  {
-    "text": "Bei der Regierungsbildung wurden die Senatsposten schnell verteilt. Für die Inhalte wartet man noch auf einen Termin.",
-    "kategorie": "Regierung"
-  },
-  {
-    "text": "Der Koalitionsvertrag steht. Wer ihn umsetzt, klären Senat und Bezirke in den nächsten zwölf Jahren.",
-    "kategorie": "Regierung"
-  },
-  {
-    "text": "Die neue Koalition verspricht Bürgeramtstermine für alle. Der nächste freie Termin zur Vorstellung des Plans: März.",
-    "kategorie": "Regierung"
-  },
-  {
-    "text": "Berlin bekommt eine Verwaltungsreform. Zuständig dafür sind zwölf Bezirke, ein Senat und am Ende niemand.",
-    "kategorie": "Regierung"
-  },
-  {
-    "text": "Der BER war nur neun Jahre zu spät fertig. Für die Berliner Regierungsbildung gilt das als ehrgeiziges Ziel.",
-    "kategorie": "Regierung"
-  },
-  {
-    "text": "Die Koalitionäre verhandeln die ganze Nacht. Die S-Bahn fährt eh nicht, also bleiben alle bis zum Kompromiss.",
-    "kategorie": "Regierung"
-  },
-  {
-    "text": "Im Koalitionsvertrag steht: Die Stadt soll funktionieren. Es gilt als ambitioniertester Satz der Verhandlungen.",
-    "kategorie": "Regierung"
-  },
-  {
-    "text": "Berlin war mal arm, aber sexy. Nach der Haushaltsklausur des neuen Senats ist nur das Erste geblieben.",
-    "kategorie": "Regierung"
-  },
-  {
-    "text": "Die Koalition will die Schulen sanieren. Die Toiletten kommen in die nächste Legislatur – wie immer.",
-    "kategorie": "Regierung"
+    "text": "Die Schule hat kein Hitzefrei mehr. Dafür gibt es jetzt einen Ventilator pro Etage.",
+    "kategorie": "Klimawandel (nicht existent)"
   }
 ]
